@@ -1,0 +1,7 @@
+[
+  { "id": "photo-resizer", "label": "Photo resizer", "mode": "photo", "crop": true, "pixels": true, "kbRequired": false, "kbMax": 100 },
+  { "id": "crop-photo", "label": "Crop photo", "mode": "photo", "crop": true, "pixels": false, "kbRequired": false, "kbMax": null },
+  { "id": "compress-photo", "label": "Compress photo", "mode": "photo", "crop": false, "pixels": false, "kbRequired": true, "kbMax": 50 },
+  { "id": "resize-photo-in-kb", "label": "Resize photo in KB", "mode": "photo", "crop": false, "pixels": true, "kbRequired": true, "kbMax": 50 },
+  { "id": "signature-resizer", "label": "Signature resizer", "mode": "signature", "crop": true, "pixels": true, "kbRequired": false, "kbMax": 50 }
+]

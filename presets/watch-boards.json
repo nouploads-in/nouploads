@@ -1,0 +1,9 @@
+[
+  { "id": "railways-rrb", "name": "Indian Railways RRB notices", "url": "https://rrb.indianrailways.gov.in/chandigarh" },
+  { "id": "ssc", "name": "SSC notice board", "url": "https://ssc.gov.in/" },
+  { "id": "ibps", "name": "IBPS notices", "url": "https://www.ibps.in/" },
+  { "id": "upsc-active", "name": "UPSC active examinations", "url": "https://upsc.gov.in/examinations/active-examinations" },
+  { "id": "upsc-calendar", "name": "UPSC examination calendar", "url": "https://upsc.gov.in/examinations/exam-calendar" },
+  { "id": "nta", "name": "NTA notices", "url": "https://nta.ac.in/" },
+  { "id": "sbi-careers", "name": "SBI careers", "url": "https://sbi.bank.in/web/careers" }
+]

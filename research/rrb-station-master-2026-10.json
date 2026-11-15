@@ -1,0 +1,71 @@
+{
+  "examId": "rrb-station-master",
+  "checkedOn": "2026-11-02",
+  "notification": "CEN 08/2026, Station Master",
+  "notificationDate": "2026-10-26",
+  "sourceUrl": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+  "watchUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329071&reg=3&lang=1",
+  "notificationUrl": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+  "corrigendumUrl": "https://rrb.indianrailways.gov.in/-/image/1793076767666Corrigendum_No_1_CEN_08_2026.pdf/examsDocuments",
+  "method": "PDF requirements and dates supplied by the requester, who read the official CEN and Corrigendum 1 on 2026-10-28. The excerpts below record the supplied evidence, not an independent PDF transcription. Independently checked the official PIB release and fetched it through scripts/watch-sources.mjs fetchSource.",
+  "sourceSelection": {
+    "redirect": "The original PRID-only URL returns HTTP 302 to the watchUrl above, which includes reg=3 and lang=1; use that final URL directly.",
+    "reason": "The RRB PDF host rejects non-browser requests, so the watcher fetches the reachable PIB release (watchUrl), which links directly to the detailed CEN. Pages link visitors to the CEN PDF (sourceUrl), where the upload rules are stated.",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=utf-8",
+    "containsCEN": true,
+    "containsVacancyCount": true,
+    "scope": "PIB corroborates the notification, 1,265 vacancies and application dates; signature and live-photo requirements come from the requester-verified CEN paragraphs below."
+  },
+  "vacancies": {
+    "count": 1265,
+    "source": "Corrigendum 1; corroborated by PIB release PRID 2329071"
+  },
+  "uploadEvidence": {
+    "photo": {
+      "paragraph": "16.5",
+      "suppliedQuote": "photo is a LIVE photo captured in the application form (webcam/front camera); no photo upload.",
+      "presetDecision": "Omit photo; offer signature only."
+    },
+    "signature": {
+      "paragraph": "16.6(a)",
+      "suppliedQuote": "signature JPG/JPEG only, 30–49 KB, minimum 140 x 60 px, scanned at minimum 100 DPI, black ink on white paper, running handwriting.",
+      "matchesPreset": "rrb-ntpc",
+      "dimensions": null,
+      "minDimensions": { "width": 140, "height": 60 },
+      "kbMin": 30,
+      "kbMax": 49,
+      "format": "image/jpeg",
+      "dpi": 100
+    }
+  },
+  "dates": {
+    "suppliedQuote": "Opening 27.10.2026, closing 25.11.2026 23:59 hrs. Fee till 27.11.2026, modification window 28.11.2026–07.12.2026.",
+    "applicationWindow": {
+      "opens": "2026-10-27",
+      "closes": "2026-11-25"
+    },
+    "applicationClosesTime": "23:59",
+    "feeCloses": "2026-11-27",
+    "modificationWindow": {
+      "opens": "2026-11-28",
+      "closes": "2026-12-07"
+    }
+  },
+  "recheck2026-11-02": {
+    "trigger": "freshness issue #38 (Source changed: RRB Station Master)",
+    "method": "Owner opened the PIB release and the CEN 08/2026 PDF in a browser and supplied both. The PDF text was transcribed independently with pdftotext.",
+    "pibRelease": "Posted 27 OCT 2026; 1,265 vacancies; applications close 25 November 2026; no corrigendum or upload-rule change. The only varying text is the visitor counter.",
+    "pdfQuotes": {
+      "16.5(a)": "Candidates are not required to upload a pre-existing photograph while applying.",
+      "16.6(a)(iv)": "Scan the signed paper using a minimum resolution of 100 DPI.",
+      "16.6(a)(v)": "Image file format: JPG/JPEG only.",
+      "16.6(a)(vi)": "File size: Between 30 KB and 49 KB.",
+      "16.6(a)(vii)": "Image dimensions: Minimum 140 pixels (width) × 60 pixels (height)",
+      "dates": "Opening 27.10.2026; closing 25.11.2026 (23:59Hrs); fee payment 27.11.2026",
+      "16.7(b)": "The modification window will open from 28.11.2026 to 07.12.2026",
+      "annexureB": "TOTAL ... 1265"
+    },
+    "result": "All preset values unchanged."
+  }
+}

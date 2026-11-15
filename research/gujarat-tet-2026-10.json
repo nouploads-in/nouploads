@@ -1,0 +1,107 @@
+{
+  "examId": "gujarat-tet-1",
+  "checkedOn": "2026-10-25",
+  "outcome": "official-copy-found",
+  "finding": "The preset filename omits the Gujarati anusvara (ં, encoded %E0%AA%82) after જાહેરનામુ. The SEB notice board links to a working 2025 original notification and a November 2025 amendment. No 2026 TET-I application notification was found in the official-domain searches or current SEB notice board.",
+  "sourceUrl": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_102025.pdf",
+  "amendmentUrl": "https://sebexam.org/AdvertiseFiles/2025/tet-1%20%E0%AA%B8%E0%AB%81%E0%AA%A7%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_112025.pdf",
+  "urlsChecked": [
+    {
+      "url": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81_102025.pdf",
+      "httpStatus": 404,
+      "purpose": "Previous preset source"
+    },
+    {
+      "url": "https://sebexam.org/",
+      "httpStatus": 200,
+      "purpose": "Official notice board; links to original and amended TET-I 2025 notices"
+    },
+    {
+      "url": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_102025.pdf",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "pages": 10,
+      "sha256": "36ac506374034b51186ef8b86b41016b57191b4d38637a1d3cdd1b7772580b54",
+      "purpose": "Original notification; upload instructions on page 9"
+    },
+    {
+      "url": "https://sebexam.org/AdvertiseFiles/2025/tet-1%20%E0%AA%B8%E0%AB%81%E0%AA%A7%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_112025.pdf",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "pages": 2,
+      "sha256": "ace6cdc70c551bfdd05d43126afe61d819765038964739c4c919687caced1724",
+      "purpose": "Application deadline amendment; page 1 says other original provisions remain unchanged"
+    }
+  ],
+  "method": "Direct HTTP GET checks and visual inspection of locally rendered scanned PDF pages. Neither PDF has an extractable text layer. Gujarati excerpts below are manually transcribed; English meanings are paraphrases.",
+  "uploadEvidence": {
+    "url": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_102025.pdf",
+    "page": 9,
+    "photo": {
+      "quote": "5 સે.મી. ઊંચાઈ અને 3.6 સે.મી. પહોળાઈ",
+      "meaning": "Photo height 5 cm, width 3.6 cm."
+    },
+    "signature": {
+      "quote": "2.5 સે.મી. ઊંચાઈ અને 7.5 સે.મી. પહોળાઈ",
+      "meaning": "Signature height 2.5 cm, width 7.5 cm."
+    },
+    "bothFiles": {
+      "quote": "JPG format માં (10 kb) સાઈઝથી વધારે નહીં",
+      "meaning": "Photo and signature must each be JPG and no larger than 10 KB."
+    },
+    "notStated": [
+      "Pixel dimensions",
+      "Minimum file size",
+      "DPI"
+    ]
+  },
+  "dates": {
+    "original": {
+      "url": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_102025.pdf",
+      "notificationDate": "2025-10-14",
+      "applicationOpens": "2025-10-28",
+      "applicationCloses": "2025-11-12",
+      "opensQuote": "૨૮/૧૦/૨૦૨૫",
+      "closesQuote": "૧૨/૧૧/૨૦૨૫",
+      "applicationDatesPages": [
+        1,
+        8
+      ],
+      "applicationOpensTime": "14:00",
+      "applicationClosesTime": "17:00",
+      "timeZone": "Asia/Kolkata",
+      "feeCloses": "2025-11-14",
+      "tentativeExamDate": "2025-12-14"
+    },
+    "amendment": {
+      "url": "https://sebexam.org/AdvertiseFiles/2025/tet-1%20%E0%AA%B8%E0%AB%81%E0%AA%A7%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_112025.pdf",
+      "page": 1,
+      "notificationDate": "2025-11-08",
+      "applicationCloses": "2025-11-18",
+      "applicationClosesQuote": "૧૮/૧૧/૨૦૨૫",
+      "feeCloses": "2025-11-20",
+      "feeClosesQuote": "૨૦/૧૧/૨૦૨૫",
+      "tentativeExamDate": "2025-12-21",
+      "tentativeExamDateQuote": "૨૧ ડિસેમ્બર ૨૦૨૫",
+      "unchangedProvisionsQuote": "અન્ય બાબતો/જોગવાઇઓ યથાવત રહેશે."
+    },
+    "effectiveApplicationWindow": {
+      "opens": "2025-10-28",
+      "closes": "2025-11-18"
+    },
+    "windowField": "Skipped: src/exam-spec.ts Exam has no window field in this worktree."
+  },
+  "searchQueries": [
+    "site:sebexam.org TET-I 2025 notification pdf",
+    "site:sebexam.org TET-I 2026 notification",
+    "site:ojas.gujarat.gov.in TET 2025 2026",
+    "site:sebexam.org \"TET-I\" \"2026\" \"જાહેરનામું\"",
+    "site:gujarat.gov.in \"TET-I\" \"2026\" notification",
+    "site:ojas.gujarat.gov.in \"TET-I\" \"2026\"",
+    "site:sebexam.org/AdvertiseFiles/2026/ \"TET\"",
+    "site:gujarat.gov.in \"TET-1\" \"2026\""
+  ],
+  "unverified": [
+    "A 2026 TET-I application cycle was not found; the verified requirements remain those of the 2025 notification, as amended."
+  ]
+}

@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "ibps-po",
+    "name": "IBPS PO",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+    "notes": "CRP PO/MT-XVI. Photo and signature dimensions are preferred, not mandatory.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200
+    }
+  },
+  {
+    "id": "sbi-po",
+    "name": "SBI PO",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://sbi.bank.in/csfile/18062026_1_Detailed_Adv.2026.pdf",
+    "notes": "Photo and signature dimensions are preferred, not mandatory.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200
+    }
+  },
+  {
+    "id": "lic-aao",
+    "name": "LIC AAO",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://licindia.in/documents/d/guest/aao-generalist-notification-2025-final",
+    "notes": "Photo and signature dimensions are preferred, not mandatory.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200
+    }
+  },
+  {
+    "id": "jee-main",
+    "name": "JEE Main",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/10/202510311145384616.pdf",
+    "examDates": [
+      {
+        "label": "Session 1 (January 2027)",
+        "dates": [
+          "2027-01-20",
+          "2027-01-21",
+          "2027-01-22",
+          "2027-01-23",
+          "2027-01-24",
+          "2027-01-28"
+        ],
+        "tentative": true,
+        "sourceUrl": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf"
+      },
+      {
+        "label": "Session 2 (April 2027)",
+        "dates": [
+          "2027-04-02",
+          "2027-04-03",
+          "2027-04-04",
+          "2027-04-05",
+          "2027-04-06",
+          "2027-04-07"
+        ],
+        "tentative": true,
+        "sourceUrl": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf"
+      }
+    ],
+    "notes": "No pixel size stated. Choose an output size; the default keeps the cropped aspect ratio with a 600 px long side.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "neet-ug",
+    "name": "NEET UG",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+    "notes": "No pixel size stated. Choose an output size; the default keeps the cropped aspect ratio with a 600 px long side.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "cuet-ug",
+    "name": "CUET UG",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+    "notes": "No pixel size stated. Choose an output size; the default keeps the cropped aspect ratio with a 600 px long side.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "gate-2027",
+    "name": "GATE 2027",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://gate2027.iitm.ac.in/static/doc/IB/GATE2027-IB.pdf",
+    "notes": "Pixel dimensions are ranges. This tool targets the minimum dimensions. No signature KB limit was found.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 600,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 200,
+        "height": 260
+      },
+      "maxDimensions": {
+        "width": 530,
+        "height": 690
+      }
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": null,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 250,
+        "height": 80
+      },
+      "maxDimensions": {
+        "width": 580,
+        "height": 180
+      }
+    }
+  },
+  {
+    "id": "ibps-clerk",
+    "name": "IBPS Clerk",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://www.ibps.in/wp-content/uploads/Notification_CRP_CSA_XVI-Final.pdf",
+    "notes": "CRP CSA-XVI, notification 2026. Photo and signature dimensions are preferred, not mandatory.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200
+    }
+  },
+  {
+    "id": "sbi-clerk",
+    "name": "SBI Clerk",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf",
+    "notes": "Junior Associates (Customer Support & Sales), Advt CRPD/CR/2026-27/17. Photo and signature dimensions are preferred, not mandatory. A separate live photo is captured by webcam or phone in the application; no file specification is stated for it.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200
+    }
+  },
+  {
+    "id": "rbi-grade-b",
+    "name": "RBI Grade B",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://ibpsreg.ibps.in/rbisbmar26/uploads/loadpdf.php?file=k7m5p+fQ15e6vNTmw9bG3JucmdWyp5rXppSo3aRx&t=zLjIrOLC1Ni005njxc8%3D",
+    "notes": "Direct Recruitment 2026, application via IBPS portal. The application window closed in June 2026; this is the most recent notification. Photo and signature dimensions are preferred, not mandatory. No pixel size is stated for the left thumb or handwritten declaration; choose an output size. Only their KB ranges are enforced, with 200 DPI set in the left-thumb file.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200
+    },
+    "declaration": {
+      "dimensions": null,
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "ugc-net",
+    "name": "UGC NET",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://ugcnet.nta.ac.in/images/information-bulletin-for-ugc-net-june-2025-16042025.pdf",
+    "examDates": [
+      {
+        "label": "December 2026 cycle",
+        "dates": [
+          "2026-12-14",
+          "2026-12-15",
+          "2026-12-16",
+          "2026-12-17",
+          "2026-12-18",
+          "2026-12-21"
+        ],
+        "tentative": true,
+        "sourceUrl": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf"
+      }
+    ],
+    "notes": "NTA June 2025 information bulletin, the source for these figures; confirm these specifications in the 2026 bulletin. Photo: colour or black and white, 80% face visible, white background. No pixel sizes are stated; choose output sizes. Only the KB ranges are enforced.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 4,
+      "kbMax": 30,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "ssc-cgl",
+    "name": "SSC CGL",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2025.pdf",
+    "notes": "2026 notification. Photo is captured live by webcam or mobile in the application form; no photo upload specification is stated. This page offers only the signature tool. Signature size is stated as about 6.0 cm x 2.0 cm. The annexure also says about 4.0 cm x 2.0 cm; the notice does not say which governs. No pixel size is enforced; choose an output size. Only the 10-20 KB range is enforced.",
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "ssc-chsl",
+    "name": "SSC CHSL",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf",
+    "notes": "2026 notification. Photo is captured live by webcam or mobile in the application form; no photo upload specification is stated. This page offers only the signature tool. Signature size is stated as about 6.0 cm x 2.0 cm. The annexure also says about 4.0 cm x 2.0 cm; the notice does not say which governs. No pixel size is enforced; choose an output size. Only the 10-20 KB range is enforced.",
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "ssc-gd",
+    "name": "SSC Constable GD",
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_CTGD_2026.pdf",
+    "notes": "2026 notification. Photo is captured live by webcam or mobile in the application form; no photo upload specification is stated. This page offers only the signature tool. Signature size is stated as about 6.0 cm x 2.0 cm. No pixel size is enforced; choose an output size. Only the 10-20 KB range is enforced.",
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "bihar-police",
+    "name": "Bihar Police Constable",
+    "state": "Bihar",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://csbc.bihar.gov.in/Advt/Advt-02-2026-Constable(Operator).pdf",
+    "notes": "Notification: CSBC Advt 01/2026 and 02/2026, Constable GD/Special Branch/Operator. Application windows closed. Colour photo with a plain white background. No pixel or cm size stated; choose output size, only KB limits apply.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 15,
+      "kbMax": 25,
+      "format": "JPG/JPEG/GIF",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 15,
+      "kbMax": 25,
+      "format": "JPG/JPEG/GIF",
+      "dpi": null
+    }
+  },
+  {
+    "id": "uppsc-pcs",
+    "name": "UPPSC PCS",
+    "state": "Uttar Pradesh",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://uppsc.up.nic.in/CMS/OTR_DOC/OTR_PHOTO_INSTRUCTION.pdf",
+    "notes": "Notification: generic UPPSC OTR photo instruction, undated PDF created in 2022; not the current PCS advertisement. Confirm on the portal. Photo: 5 cm x 6 cm, 200 DPI, true colour. Signature: 6 cm x 3 cm, 200 DPI. No pixel size stated; choose output size, only KB limits apply. Default crop aspects follow the stated cm ratios; these are not pixel requirements.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 50,
+      "format": null,
+      "dpi": 200,
+      "dimensionsCm": {
+        "width": 5,
+        "height": 6
+      }
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 30,
+      "format": null,
+      "dpi": 200,
+      "dimensionsCm": {
+        "width": 6,
+        "height": 3
+      }
+    }
+  },
+  {
+    "id": "tnpsc-group-4",
+    "name": "TNPSC Group 4",
+    "state": "Tamil Nadu",
+    "languages": [
+      "en"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://tnpsc.gov.in/document/english/group_english.pdf",
+    "notes": "Notification: Notification 11/2026, dated 06.10.2026. Photo: 130x170 px (3.5x4.5 cm), 200 DPI. Signature: 230x75 px (6x2 cm).",
+    "photo": {
+      "dimensions": {
+        "width": 130,
+        "height": 170
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "JPG",
+      "dpi": 200,
+      "dimensionsCm": {
+        "width": 3.5,
+        "height": 4.5
+      }
+    },
+    "signature": {
+      "dimensions": {
+        "width": 230,
+        "height": 75
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "JPG",
+      "dpi": null,
+      "dimensionsCm": {
+        "width": 6,
+        "height": 2
+      }
+    }
+  },
+  {
+    "id": "tn-tet",
+    "name": "TN TET",
+    "state": "Tamil Nadu",
+    "languages": [
+      "en"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://www.trb.tn.gov.in/admin/pdf/3081466994TET.pdf",
+    "notes": "Notification: TN TET 2026, Notification 01/2026. No pixel size stated; choose output size, only KB limits apply.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 40,
+      "kbMax": 60,
+      "format": "JPG/JPEG/PNG",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 40,
+      "format": "JPG/JPEG/PNG",
+      "dpi": null
+    }
+  },
+  {
+    "id": "wb-police",
+    "name": "West Bengal Police Constable",
+    "state": "West Bengal",
+    "languages": [
+      "en"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://prb.wb.gov.in/uploads/recruitment/170963013450177.pdf",
+    "notes": "Notification: WBPRB 2024; no 2026 notice found. Photo: 138x177 px (3.5x4.5 cm). Signature: 350x63 px (9.2x1.7 cm).",
+    "photo": {
+      "dimensions": {
+        "width": 138,
+        "height": 177
+      },
+      "kbMin": 10,
+      "kbMax": 50,
+      "format": "JPG",
+      "dpi": null,
+      "dimensionsCm": {
+        "width": 3.5,
+        "height": 4.5
+      }
+    },
+    "signature": {
+      "dimensions": {
+        "width": 350,
+        "height": 63
+      },
+      "kbMin": 5,
+      "kbMax": 20,
+      "format": "JPG",
+      "dpi": null,
+      "dimensionsCm": {
+        "width": 9.2,
+        "height": 1.7
+      }
+    }
+  },
+  {
+    "id": "gujarat-police",
+    "name": "Gujarat Police LRD Constable",
+    "state": "Gujarat",
+    "languages": [
+      "en"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-15",
+    "sourceUrl": "https://gprb.gujarat.gov.in/ViewDocument.aspx?CDID=07ac4c5df1362e54b13260bfc1b36951",
+    "notes": "Notification: GPRB/202526/1, 2025. No pixel or cm size stated; choose output size, only KB limits apply.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 15,
+      "format": "JPG",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 15,
+      "format": "JPG",
+      "dpi": null
+    }
+  },
+  {
+    "id": "gujarat-tet-1",
+    "name": "Gujarat TET-I",
+    "state": "Gujarat",
+    "languages": [
+      "en"
+    ],
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://sebexam.org/AdvertiseFiles/2025/%E0%AA%B6%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%95%20%E0%AA%AF%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%AF%E0%AA%A4%E0%AA%BE%20%E0%AA%95%E0%AA%B8%E0%AB%8B%E0%AA%9F%E0%AB%80-i%20(tet-i)-2025%20%E0%AA%9C%E0%AA%BE%E0%AA%B9%E0%AB%87%E0%AA%B0%E0%AA%A8%E0%AA%BE%E0%AA%AE%E0%AB%81%E0%AA%82_102025.pdf",
+    "notes": "Notification: 14 October 2025, State Examination Board, Gujarat; amended 8 November 2025. Photo: 5 cm high x 3.6 cm wide. Signature: 2.5 cm high x 7.5 cm wide. Both files: JPG, no larger than 10 KB each. No pixel size or DPI stated; choose output size. Default crop aspects follow the stated cm ratios. Applications: 28 October-18 November 2025 (extended); fee payment closes 20 November 2025.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 10,
+      "format": "JPG",
+      "dpi": null,
+      "dimensionsCm": {
+        "width": 3.6,
+        "height": 5
+      }
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": null,
+      "kbMax": 10,
+      "format": "JPG",
+      "dpi": null,
+      "dimensionsCm": {
+        "width": 7.5,
+        "height": 2.5
+      }
+    }
+  },
+  {
+    "id": "rrb-station-master",
+    "name": "RRB Station Master",
+    "verified": true,
+    "verifiedOn": "2026-11-02",
+    "sourceUrl": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+    "watchUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329071&reg=3&lang=1",
+    "window": {
+      "opens": "2026-10-27",
+      "closes": "2026-11-25"
+    },
+    "notes": "CEN 08/2026, Station Master, 1,265 vacancies after Corrigendum 1. Photo is captured live by webcam or phone inside the application form, so this page offers only the signature tool (para 16.5). Signature must be JPG/JPEG, 30-49 KB, in black ink on white paper, in running handwriting (para 16.6(a)). Signature dimensions are a minimum of 140x60 px; this tool targets that minimum. Scan at a minimum of 100 DPI. Applications: 27.10.2026 to 25.11.2026, 23:59 hrs. Fee payment closes 27.11.2026; modification window: 28.11.2026 to 07.12.2026. The official PIB release links to the detailed RRB notification.",
+    "signature": {
+      "dimensions": null,
+      "kbMin": 30,
+      "kbMax": 49,
+      "format": "image/jpeg",
+      "dpi": 100,
+      "minDimensions": {
+        "width": 140,
+        "height": 60
+      }
+    }
+  },
+  {
+    "id": "rrb-ntpc",
+    "name": "RRB NTPC",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.rrbapply.gov.in/assets/forms/CEN_06_2026_NTPC_G.pdf",
+    "window": {
+      "closes": "2026-11-13"
+    },
+    "notes": "CEN 06/2026 (Graduate) and CEN 07/2026 (Undergraduate) have the same signature rules. Photo is captured live by webcam or phone inside the application form, so this page offers only the signature tool. Signature dimensions are a minimum of 140x60 px; this tool targets that minimum. Scan at a minimum of 100 DPI. Graduate applications close 06.11.2026; Undergraduate applications close 13.11.2026.",
+    "signature": {
+      "dimensions": null,
+      "kbMin": 30,
+      "kbMax": 49,
+      "format": "image/jpeg",
+      "dpi": 100,
+      "minDimensions": {
+        "width": 140,
+        "height": 60
+      }
+    }
+  },
+  {
+    "id": "sbi-so",
+    "name": "SBI SO",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461",
+    "window": {
+      "closes": "2026-11-09"
+    },
+    "notes": "Specialist Cadre Officers, Advt CRPD/SCO/2026-27/30. Photo and signature pixel dimensions are preferred, not mandatory. Minimum scanner resolution is 200 DPI.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "csir-net",
+    "name": "CSIR NET",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/10/202610071407707951.pdf",
+    "examDates": [
+      {
+        "label": "December 2026 cycle",
+        "dates": [
+          "2026-12-19",
+          "2026-12-22",
+          "2026-12-27"
+        ],
+        "tentative": true,
+        "sourceUrl": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf"
+      }
+    ],
+    "notes": "December 2026 information bulletin. No pixel size stated. Choose an output size; the default keeps the cropped aspect ratio with a 600 px long side. Only the KB ranges are enforced. A separate live photo is captured in the application in addition to the uploaded photo.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "nift",
+    "name": "NIFT",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.nift.ac.in/sites/default/files/2026-10/Information%20Bulletin%20-NIFTEE%202027%20-16.10.2026.pdf",
+    "examDates": [
+      {
+        "label": "NIFT Entrance Examination 2027",
+        "dates": [
+          "2027-01-10"
+        ],
+        "tentative": true,
+        "sourceUrl": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf"
+      }
+    ],
+    "notes": "NIFTEE 2027 information bulletin. No pixel size stated. Choose an output size; the default keeps the cropped aspect ratio with a 600 px long side. Only the KB ranges are enforced. A separate live photo is captured in the application in addition to the uploaded photo.",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "ibps-rrb-officer-scale-i",
+    "name": "IBPS RRB PO",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+    "notes": "CRP RRBs XV (2026): Officer Scale I. Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "ibps-rrb-office-assistant",
+    "name": "IBPS RRB Clerk",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+    "notes": "CRP RRBs XV (2026): Office Assistant (Multipurpose). Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "sbi-apprentice",
+    "name": "SBI Apprentice",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791",
+    "notes": "CRPD/APPR/2026-27/07 (2026). Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "nabard-grade-a",
+    "name": "NABARD Grade A",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf",
+    "notes": "2025; Advertisement 05/Grade A/2025-26. Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "sebi-grade-a",
+    "name": "SEBI Grade A",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf",
+    "notes": "2025. Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "niacl-ao",
+    "name": "NIACL Administrative Officer (Generalists and Specialists)",
+    "seoName": "NIACL AO",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf",
+    "notes": "2025. Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "niacl-assistant",
+    "name": "NIACL Assistant",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf",
+    "notes": "Assistant Recruitment Exercise 2024 (application crosses into 2025). Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. No separate pixel dimensions are stated for the left thumb impression or handwritten declaration; choose an output size. Their file limits are 10-20 KB and 20-50 KB respectively.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": null,
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "declaration": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null
+    }
+  },
+  {
+    "id": "idbi-jam",
+    "name": "IDBI Junior Assistant Manager Grade O (Regional)",
+    "seoName": "IDBI JAM",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf",
+    "notes": "2026-27; Advertisement 7/2025-26. Photo and signature dimensions are preferred, not mandatory. Scanner resolution must be at least 200 DPI. Left thumb impression and handwritten declaration dimensions at 200 DPI are preferred for quality. A separate live photo must also be captured by webcam or mobile phone in the application.",
+    "photo": {
+      "dimensions": {
+        "width": 200,
+        "height": 230
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "signature": {
+      "dimensions": {
+        "width": 140,
+        "height": 60
+      },
+      "kbMin": 10,
+      "kbMax": 20,
+      "format": "image/jpeg",
+      "dpi": null,
+      "preferred": true
+    },
+    "thumb": {
+      "dimensions": {
+        "width": 240,
+        "height": 240
+      },
+      "kbMin": 20,
+      "kbMax": 50,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    },
+    "declaration": {
+      "dimensions": {
+        "width": 800,
+        "height": 400
+      },
+      "kbMin": 50,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": 200,
+      "preferred": true
+    }
+  },
+  {
+    "id": "upsc-civil-services",
+    "name": "UPSC Civil Services",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://upsconline.nic.in/caf/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+    "window": {
+      "opens": "2027-01-13",
+      "closes": "2027-02-02"
+    },
+    "notes": "UPSC online application instructions, used for all UPSC exams. Photo: colour JPG, 20-200 KB, plain white background, face covering at least 75% of the photo with both ears visible. A live photo is also captured in the form and matched with it. Signature: sign three times, one below the other, on plain white paper in black ink, and upload one scan of 20-100 KB and 350-500 pixels. This tool outputs 400x500 px, inside that range. CSE 2027 applications: 13.01.2027 to 02.02.2027 (UPSC calendar).",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 350,
+        "height": 350
+      },
+      "maxDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "target": {
+        "width": 400,
+        "height": 500
+      },
+      "layout": "triple"
+    }
+  },
+  {
+    "id": "nda-na",
+    "name": "UPSC NDA/NA",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://upsconline.nic.in/caf/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+    "notes": "UPSC online application instructions, used for all UPSC exams. Photo: colour JPG, 20-200 KB, plain white background, face covering at least 75% of the photo with both ears visible. A live photo is also captured in the form and matched with it. Signature: sign three times, one below the other, on plain white paper in black ink, and upload one scan of 20-100 KB and 350-500 pixels. This tool outputs 400x500 px, inside that range. NDA & NA (I) 2027 applications: 02.12.2026 to 22.12.2026 (UPSC calendar; dates may change).",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 350,
+        "height": 350
+      },
+      "maxDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "target": {
+        "width": 400,
+        "height": 500
+      },
+      "layout": "triple"
+    }
+  },
+  {
+    "id": "cds",
+    "name": "UPSC CDS",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://upsconline.nic.in/caf/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+    "notes": "UPSC online application instructions, used for all UPSC exams. Photo: colour JPG, 20-200 KB, plain white background, face covering at least 75% of the photo with both ears visible. A live photo is also captured in the form and matched with it. Signature: sign three times, one below the other, on plain white paper in black ink, and upload one scan of 20-100 KB and 350-500 pixels. This tool outputs 400x500 px, inside that range. CDS (I) 2027 applications: 02.12.2026 to 22.12.2026 (UPSC calendar; dates may change).",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 350,
+        "height": 350
+      },
+      "maxDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "target": {
+        "width": 400,
+        "height": 500
+      },
+      "layout": "triple"
+    }
+  },
+  {
+    "id": "upsc-capf",
+    "name": "UPSC CAPF",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://upsconline.nic.in/caf/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+    "notes": "UPSC online application instructions, used for all UPSC exams. Photo: colour JPG, 20-200 KB, plain white background, face covering at least 75% of the photo with both ears visible. A live photo is also captured in the form and matched with it. Signature: sign three times, one below the other, on plain white paper in black ink, and upload one scan of 20-100 KB and 350-500 pixels. This tool outputs 400x500 px, inside that range. CAPF (ACs) 2027 applications: 17.02.2027 to 09.03.2027 (UPSC calendar; dates may change).",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 350,
+        "height": 350
+      },
+      "maxDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "target": {
+        "width": 400,
+        "height": 500
+      },
+      "layout": "triple"
+    }
+  },
+  {
+    "id": "upsc-ese",
+    "name": "UPSC ESE",
+    "verified": true,
+    "verifiedOn": "2026-10-25",
+    "sourceUrl": "https://upsconline.nic.in/caf/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+    "notes": "UPSC online application instructions, used for all UPSC exams. Photo: colour JPG, 20-200 KB, plain white background, face covering at least 75% of the photo with both ears visible. A live photo is also captured in the form and matched with it. Signature: sign three times, one below the other, on plain white paper in black ink, and upload one scan of 20-100 KB and 350-500 pixels. This tool outputs 400x500 px, inside that range. ESE (Prelims) 2027 applications: 16.09.2026 to 06.10.2026 (UPSC calendar; dates may change).",
+    "photo": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 200,
+      "format": "image/jpeg",
+      "dpi": null
+    },
+    "signature": {
+      "dimensions": null,
+      "kbMin": 20,
+      "kbMax": 100,
+      "format": "image/jpeg",
+      "dpi": null,
+      "minDimensions": {
+        "width": 350,
+        "height": 350
+      },
+      "maxDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "target": {
+        "width": 400,
+        "height": 500
+      },
+      "layout": "triple"
+    }
+  }
+]

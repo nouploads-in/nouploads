@@ -1,0 +1,3744 @@
+{
+  "exams": [
+    {
+      "id": "ibps-rrb-officer-scale-i",
+      "name": "IBPS RRB Officer Scale I",
+      "body": "Institute of Banking Personnel Selection",
+      "cycle": "CRP RRBs XV (2026)",
+      "applicationWindow": {
+        "opens": "2026-09-01",
+        "closes": "2026-09-27",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional photograph capture using webcam or mobile phone is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will submit the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch).",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Commencement of online registration of application 01/09/2026\nClosure of registration of application 27/09/2026",
+          "sourceUrl": "https://ibpsreg.ibps.in/rrbxvaug26/index.php?stat=0"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "CRP RRBs XV",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "CRP RRBs XV",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Official PDF saved as ./downloads/ibps-rrb.pdf and read only with pypdf text extraction; extraction at ./downloads/ibps-rrb.txt."
+      ]
+    },
+    {
+      "id": "ibps-rrb-office-assistant",
+      "name": "IBPS RRB Office Assistant (Multipurpose)",
+      "body": "Institute of Banking Personnel Selection",
+      "cycle": "CRP RRBs XV (2026)",
+      "applicationWindow": {
+        "opens": "2026-10-09",
+        "closes": "2026-10-09",
+        "status": "closed; latest registration event shown by official portal"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional photograph capture using webcam or mobile phone is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will submit the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch).",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "CRP RRBs XV",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Commencement of online registration of application 09/10/2026\nClosure of registration of application 09/10/2026",
+          "sourceUrl": "https://ibpsreg.ibps.in/rrboaxvaug26/"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "CRP RRBs XV",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Official Office Assistant portal currently displays a one-day registration event. Do not substitute the Officer registration closing date. Original notice and later portal event are different records.",
+        "Official PDF saved as ./downloads/ibps-rrb.pdf and read only with pypdf text extraction; extraction at ./downloads/ibps-rrb.txt."
+      ]
+    },
+    {
+      "id": "ibps-so",
+      "name": "IBPS Specialist Officers",
+      "body": "Institute of Banking Personnel Selection",
+      "cycle": "CRP SPL-XVI (2026; vacancies of 2027-28)",
+      "applicationWindow": {
+        "opens": "2026-07-01",
+        "closes": null,
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional live photograph capture is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e. 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Online registration including Edit/Modification of Application by candidates 01.07.2026 to 21.07.2026",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "CRP SPL-XVI COMMON RECRUITMENT PROCESS (CRP) FOR RECRUITMENT OF SPECIALIST OFFICERS IN PARTICIPATING BANKS (Vacancies of 2027-28)",
+          "sourceUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
+        }
+      ],
+      "confidence": "PARTIALLY_CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Original notice closing date is quoted. A later extension was reported by leads but could not be confirmed in an official extension notice; latest closes is therefore null. No upcoming application window established.",
+        "Official PDF saved as ./downloads/ibps-so.pdf and read only with pypdf text extraction; extraction at ./downloads/ibps-so.txt."
+      ]
+    },
+    {
+      "id": "sbi-so",
+      "name": "SBI Specialist Cadre Officers (latest listed drive)",
+      "body": "State Bank of India",
+      "cycle": "CRPD/SCO/2026-27/30",
+      "applicationWindow": {
+        "opens": "2026-10-19",
+        "closes": "2026-11-09",
+        "status": "open as of research date"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20 kb - 50 kb",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred).",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10 kb - 20 kb",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "photo and signature in .jpeg format",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "ONLINE REGISTRATION OF APPLICATION & PAYMENT OF FEES: FROM 19.10.2026 TO 09.11.2026",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "ADVERTISEMENT NO: CRPD/SCO/2026-27/30",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/17102026_Detail_ADV_CRPD_SCO_2026-27_30.pdf/226b6572-e6bd-2b73-f266-dc7db9b282bd?t=1792240760461"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "SBI SO is a collection of separate drives. This record covers the identified current advertisement only. Thumb and handwritten declaration upload specs were not found in this advertisement; null does not establish that another SBI drive omits them.",
+        "Official PDF saved as ./downloads/sbi-so-latest.pdf and read only with pypdf text extraction; extraction at ./downloads/sbi-so-latest.txt."
+      ]
+    },
+    {
+      "id": "sbi-apprentice",
+      "name": "SBI Apprentice",
+      "body": "State Bank of India",
+      "cycle": "CRPD/APPR/2026-27/07 (2026)",
+      "applicationWindow": {
+        "opens": "2026-05-19",
+        "closes": "2026-06-15",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I,______(Name of the candidate), Date of Birth ______hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required. The signature, photograph and left thumb impression is of mine"
+      },
+      "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e. 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e. 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "ONLINE REGISTRATION OF APPLICATION: FROM 19.05.2026 TO 08.06.2026 (EXTENDED TILL 15.06.2026)",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "ADVERTISEMENT NO: CRPD/APPR/2026-27/07",
+          "sourceUrl": "https://sbi.bank.in/documents/77530/57941334/19052026_ENGAGEMENT%2BOF%2BAPPRENTICE%2B2026%2BADVERTISEMENT%2BCRPD_APPR_2026-27_07.pdf/fa9015ff-2268-a829-f9e8-8c1b5d55e126?t=1779173730791"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Official PDF saved as ./downloads/sbi-apprentice.pdf and read only with pypdf text extraction; extraction at ./downloads/sbi-apprentice.txt."
+      ]
+    },
+    {
+      "id": "rbi-assistant",
+      "name": "RBI Assistant",
+      "body": "Reserve Bank of India",
+      "cycle": "Panel Year 2025; notice issued in 2026",
+      "applicationWindow": {
+        "opens": "2026-02-16",
+        "closes": "2026-03-10",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional live photograph capture using webcam or mobile phone is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e. 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e. 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg/ jpeg",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "applicationWindow.opens"
+          ],
+          "quote": "Application Submission Window February 16, 2026 - March 08, 2026",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4912"
+        },
+        {
+          "fields": [
+            "applicationWindow.closes"
+          ],
+          "quote": "In view of the above, it has been decided to extend the last date for submission of online applications up to 23:59 hours of March 10, 2026.",
+          "sourceUrl": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4930"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only."
+      ]
+    },
+    {
+      "id": "rbi-office-attendant",
+      "name": "RBI Office Attendant",
+      "body": "Reserve Bank of India",
+      "cycle": "Panel Year 2025; notice issued in 2026",
+      "applicationWindow": {
+        "opens": "2026-01-15",
+        "closes": "2026-02-04",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional live photograph capture using webcam or mobile phone is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred).",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb.",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Website Link Open January 15, 2026 – February 04, 2026",
+          "sourceUrl": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4835"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only."
+      ]
+    },
+    {
+      "id": "nabard-grade-a",
+      "name": "NABARD Grade A",
+      "body": "National Bank for Agriculture and Rural Development",
+      "cycle": "2025; Advertisement 05/Grade A/2025-26",
+      "applicationWindow": {
+        "opens": "2025-11-08",
+        "closes": "2025-11-30",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred).",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20KB-50KB.",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10 KB – 20KB",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch).",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Candidates can apply only ONLINE on NABARD website www.nabard.org between 08 November 2025 and 30 November 2025.",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "Advertisement No. 05/ Grade A /2025-26",
+          "sourceUrl": "https://www.nabard.org/auth/writereaddata/CareerNotices/1011251859Final%20Advertisement%20Grade%20A%20%28RDBS%2C%20Legal%2C%20P%26SS%29%202025.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Most recent official Grade A notice located is the prior cycle. A new Grade A window was not confirmed; unrelated NABARD specialist recruitment is not Grade A.",
+        "Official PDF saved as ./downloads/nabard.pdf and read only with pypdf text extraction; extraction at ./downloads/nabard.txt."
+      ]
+    },
+    {
+      "id": "sebi-grade-a",
+      "name": "SEBI Grade A",
+      "body": "Securities and Exchange Board of India",
+      "cycle": "2025",
+      "applicationWindow": {
+        "opens": "2025-10-30",
+        "closes": "2025-11-28",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible.",
+          "Additional live photograph capture is required."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred).",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20KB-50KB.",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "File size: 10KB – 20KB",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "On-Line Application and Payment of fee On-Line October 30, 2025 – November 28, 2025",
+          "sourceUrl": "https://www.sebi.gov.in/sebi_data/careerfiles/oct-2025/1761782417659.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Most recent official Grade A notification located is the prior cycle.",
+        "Official PDF saved as ./downloads/sebi.pdf and read only with pypdf text extraction; extraction at ./downloads/sebi.txt."
+      ]
+    },
+    {
+      "id": "niacl-ao",
+      "name": "NIACL Administrative Officer (Generalists and Specialists)",
+      "body": "The New India Assurance Company Limited",
+      "cycle": "2025",
+      "applicationWindow": {
+        "opens": "2025-08-07",
+        "closes": "2025-08-30",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write.",
+          "This notice allows black or blue ink for declaration."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimension s 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb –50 kb",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e. 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e. 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "On-line registration and payment of application fees 07th Aug to 30 th Aug 2025",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/RECRUITMENT%20OF%20ADMINISTRATIVE%20OFFICERS%202025/RECRUITMENT%20OF%20_5_50%20ADMINISTRATIVE%20OFFICERS%20(GENERALISTS%20%26%20SPECIALISTS)%20(SCALE-I)%20202_5.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Most recent official AO notice located is the prior cycle. NIACL must not be confused with National Insurance (NICL).",
+        "Official PDF saved as ./downloads/niacl-ao.pdf and read only with pypdf text extraction; extraction at ./downloads/niacl-ao.txt."
+      ]
+    },
+    {
+      "id": "niacl-assistant",
+      "name": "NIACL Assistant",
+      "body": "The New India Assurance Company Limited",
+      "cycle": "Assistant Recruitment Exercise 2024 (application crosses into 2025)",
+      "applicationWindow": {
+        "opens": "2024-12-17",
+        "closes": "2025-01-01",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [],
+        "text": "I, _________________ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Online Registration & payment of Application Fees 17/12/2024 to 01/01/2025 (Both dates inclusive)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred).",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20 kb – 50 kb",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred).",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax",
+            "thumb.kbMin",
+            "thumb.kbMax",
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "Size of file should be between 10-20 kb for signature and left thumb impression & 20-50 kb for hand written declaration.",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi",
+            "thumb.dpi",
+            "declaration.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format",
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "The image file should be jpg or jpeg format.",
+          "sourceUrl": "https://www.newindia.co.in/assets/docs/recruitment/ASSISTANT%20RECRUITMENT%20EXERCISE%20-%202024/DETAILED%20ADVERTISEMENT%20IN%20ENGLISH.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "The notice explicitly gives smaller file-size limits for thumb/declaration. Separate pixel/cm dimensions for thumb/declaration were not established, so they remain null. Do not import the common IBPS limits.",
+        "DPI is the minimum scanner resolution. Photo dimensions in cm are not assigned width/height from an unlabelled pair. Most recent official Assistant notice located is this prior cycle.",
+        "Official PDF saved as ./downloads/niacl-assistant.pdf and read only with pypdf text extraction; extraction at ./downloads/niacl-assistant.txt."
+      ]
+    },
+    {
+      "id": "lic-ado",
+      "name": "LIC Apprentice Development Officer",
+      "body": "Life Insurance Corporation of India",
+      "cycle": "ADO recruitment 2022-23; North Zone Delhi notice used",
+      "applicationWindow": {
+        "opens": "2023-01-21",
+        "closes": "2023-02-10",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write.",
+          "This notice permits black or blue ink."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred).",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb.",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred).",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb-20kb",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i .e. 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB.",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width *Height).",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB.",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Opening date of On-Line Registration of Application and On- line payment of Application Fees/Intimation Charges. 21st January 2023 Last date of On-Line Registration of Application and On-line payment of Application Fees/Intimation Charges. 10h February 2023",
+          "sourceUrl": "https://web.licindia.in/documents/d/guest/nz-delhi-employment-notice-notification-22-23"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Prior official cycle; no newer ADO notice confirmed. The quoted closing-date ordinal is printed as “10h” in extracted source.",
+        "Official PDF saved as ./downloads/lic-ado.pdf and read only with pypdf text extraction; extraction at ./downloads/lic-ado.txt."
+      ]
+    },
+    {
+      "id": "lic-assistant",
+      "name": "LIC Assistant",
+      "body": "Life Insurance Corporation of India",
+      "cycle": "2019 (official archive located)",
+      "applicationWindow": {
+        "opens": null,
+        "closes": null,
+        "status": "UNCONFIRMED"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://licindia.in/web/guest/recruitment-of-assistants-20191",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "Recruitment of Assistants-2019",
+          "sourceUrl": "https://licindia.in/web/guest/recruitment-of-assistants-20191"
+        }
+      ],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "Official archive was read, but the division notification and upload annexure could not be recovered. All upload specs and application dates remain unconfirmed. No new cycle confirmed."
+      ]
+    },
+    {
+      "id": "epfo-ssa",
+      "name": "EPFO Social Security Assistant",
+      "body": "Employees’ Provident Fund Organisation / National Testing Agency",
+      "cycle": "2023 (most recent official SSA notice located)",
+      "applicationWindow": {
+        "opens": "2023-03-27",
+        "closes": "2023-04-26",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://www.epfindia.nic.in/site_docs/PDFs/Recruitments_PDFs/Advertisement_for_SSA_24032023.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Online Registration of Application 27th March, 2023 to 26th April,2023.",
+          "sourceUrl": "https://www.epfindia.nic.in/site_docs/PDFs/Recruitments_PDFs/Advertisement_for_SSA_24032023.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "Name of Post: Social Security Assistant (Group C)",
+          "sourceUrl": "https://www.epfindia.nic.in/site_docs/PDFs/Recruitments_PDFs/Advertisement_for_SSA_24032023.pdf"
+        }
+      ],
+      "confidence": "PARTIALLY_CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "Official indexed notification text confirms registration dates. Direct PDF retrieval failed; upload-spec pages were not read, so every upload field remains unconfirmed. Do not reuse older IBPS-style SSA specs."
+      ]
+    },
+    {
+      "id": "epfo-eo",
+      "name": "EPFO Enforcement Officer / Accounts Officer",
+      "body": "Union Public Service Commission for EPFO",
+      "cycle": "Special Advertisement 52/2025 (official recruitment-test list)",
+      "applicationWindow": {
+        "opens": null,
+        "closes": null,
+        "status": "UNCONFIRMED"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://www.upsc.gov.in/recruitment/recruitment-test/notices",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "52 - 2025 (Special)",
+          "sourceUrl": "https://www.upsc.gov.in/recruitment/recruitment-test/notices"
+        },
+        {
+          "fields": [
+            "name"
+          ],
+          "quote": "156 Posts of Enforcement Officer - Accounts Officer in EPFO",
+          "sourceUrl": "https://www.upsc.gov.in/recruitment/recruitment-test/notices"
+        }
+      ],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "Official recruitment-test listing read, but original application notice and upload instructions were not recovered. Dates and specs remain unconfirmed. APFC-only notices are not treated as EO notices."
+      ]
+    },
+    {
+      "id": "idbi-jam",
+      "name": "IDBI Junior Assistant Manager Grade O (Regional)",
+      "body": "IDBI Bank Limited",
+      "cycle": "2026-27; Advertisement 7/2025-26",
+      "applicationWindow": {
+        "opens": "2026-03-08",
+        "closes": "2026-03-19",
+        "status": "closed"
+      },
+      "photo": {
+        "widthPx": 200,
+        "heightPx": 230,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Recent passport colour photograph; light background, preferably white; face and eyes clearly visible."
+        ]
+      },
+      "signature": {
+        "widthPx": 140,
+        "heightPx": 60,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": 10,
+        "kbMax": 20,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Pixel dimensions are preferred. Applicant signs in black ink on white paper; capitals are not accepted."
+        ]
+      },
+      "thumb": {
+        "widthPx": 240,
+        "heightPx": 240,
+        "widthCm": 3,
+        "heightCm": 3,
+        "kbMin": 20,
+        "kbMax": 50,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Black or blue ink on white paper; clear and not smudged. Alternative impression rules must be checked in the linked notice if the left thumb is unavailable."
+        ]
+      },
+      "declaration": {
+        "widthPx": 800,
+        "heightPx": 400,
+        "widthCm": 10,
+        "heightCm": 5,
+        "kbMin": 50,
+        "kbMax": 100,
+        "format": [
+          "jpg",
+          "jpeg"
+        ],
+        "dpi": 200,
+        "otherRules": [
+          "Applicant’s own handwriting in English on white paper; no capitals. Follow the notice’s alternative procedure if unable to write."
+        ],
+        "text": "I, _______ (Name of the candidate), hereby declare that all the information submitted by me in the application form is correct, true and valid. I will present the supporting documents as and when required."
+      },
+      "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "photo.widthPx",
+            "photo.heightPx"
+          ],
+          "quote": "Dimensions 200 x 230 pixels (preferred)",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "photo.kbMin",
+            "photo.kbMax"
+          ],
+          "quote": "Size of file should be between 20kb–50 kb",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "signature.widthPx",
+            "signature.heightPx"
+          ],
+          "quote": "Dimensions 140 x 60 pixels (preferred)",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "signature.kbMin",
+            "signature.kbMax"
+          ],
+          "quote": "Size of file should be between 10kb – 20kb",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "photo.dpi",
+            "signature.dpi"
+          ],
+          "quote": "Set the scanner resolution to a minimum of 200 dpi (dots per inch)",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "photo.format",
+            "signature.format"
+          ],
+          "quote": "The image file should be JPG or JPEG format.",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.widthPx",
+            "thumb.heightPx",
+            "thumb.widthCm",
+            "thumb.heightCm",
+            "thumb.dpi"
+          ],
+          "quote": "Dimensions: 240 x 240 pixels in 200 DPI (Preferred for required quality) i.e 3 cm * 3 cm (Width * Height)",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.kbMin",
+            "thumb.kbMax"
+          ],
+          "quote": "File Size: 20 KB – 50 KB",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "declaration.widthPx",
+            "declaration.heightPx",
+            "declaration.widthCm",
+            "declaration.heightCm",
+            "declaration.dpi"
+          ],
+          "quote": "Dimensions: 800 x 400 pixels in 200 DPI (Preferred for required quality) i.e 10 cm * 5 cm (Width * Height)",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "declaration.kbMin",
+            "declaration.kbMax"
+          ],
+          "quote": "File Size: 50 KB – 100 KB",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "thumb.format",
+            "declaration.format"
+          ],
+          "quote": "File type: jpg / jpeg",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "applicationWindow"
+          ],
+          "quote": "Online Registration (only) including Edit/ Modification of Application by candidates March 8-19, 2026",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        },
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "Advertisement no. 7/ 2025-26 Recruitment of JAM - 2026-27",
+          "sourceUrl": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+        }
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "DPI on photo/signature denotes the stated minimum scanner resolution; pixel dimensions are preferred. Photo cm dimensions remain null where the printed dimension order is not explicitly labelled width/height. Quotes normalize extraction whitespace only.",
+        "Official PDF saved as ./downloads/idbi-jam.pdf and read only with pypdf text extraction; extraction at ./downloads/idbi-jam.txt."
+      ]
+    },
+    {
+      "id": "bank-of-baroda-so",
+      "name": "Bank of Baroda specialist officer drives",
+      "body": "Bank of Baroda",
+      "cycle": null,
+      "applicationWindow": {
+        "opens": null,
+        "closes": null,
+        "status": "UNCONFIRMED"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://bankofbaroda.bank.in/career/current-opportunities",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "No currently open specialist-officer application drive was confirmed from the official pages checked. Because scope is “if open”, no past-drive upload limits are substituted. Listing expiry, score-display, interview and joining dates are not application closing dates."
+      ]
+    },
+    {
+      "id": "pnb-so",
+      "name": "PNB specialist officer drives",
+      "body": "Punjab National Bank",
+      "cycle": "HRP 2026-27 (past drive listed)",
+      "applicationWindow": {
+        "opens": null,
+        "closes": null,
+        "status": "UNCONFIRMED"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://www.pnb.bank.in/Recruitments.aspx",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "RECRUITMENT OF 30 SPECIALIST OFFICERS UNDER HRP 2026-27",
+          "sourceUrl": "https://www.pnb.bank.in/Recruitments.aspx"
+        }
+      ],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "No currently open specialist-officer application drive was confirmed from the official pages checked. Because scope is “if open”, no past-drive upload limits are substituted. Listing expiry, score-display, interview and joining dates are not application closing dates."
+      ]
+    },
+    {
+      "id": "canara-so",
+      "name": "Canara Bank specialist officer drives",
+      "body": "Canara Bank",
+      "cycle": "Recruitment Project 1/2025 (past drive listed)",
+      "applicationWindow": {
+        "opens": null,
+        "closes": null,
+        "status": "UNCONFIRMED"
+      },
+      "photo": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "signature": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "thumb": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": []
+      },
+      "declaration": {
+        "widthPx": null,
+        "heightPx": null,
+        "widthCm": null,
+        "heightCm": null,
+        "kbMin": null,
+        "kbMax": null,
+        "format": null,
+        "dpi": null,
+        "otherRules": [],
+        "text": null
+      },
+      "sourceUrl": "https://www.canarabank.bank.in/pages/Recruitment",
+      "sourceQuotes": [
+        {
+          "fields": [
+            "cycle"
+          ],
+          "quote": "Recruitment Project -1/2025 - Engagement of Specialist Officers on contract basis",
+          "sourceUrl": "https://www.canarabank.bank.in/pages/Recruitment"
+        }
+      ],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Null means not confirmed or not explicitly specified; it does not mean unrestricted.",
+        "No official upcoming application window opening during November 2026 through March 2027 was established in this research.",
+        "No currently open specialist-officer application drive was confirmed from the official pages checked. Because scope is “if open”, no past-drive upload limits are substituted. Listing expiry, score-display, interview and joining dates are not application closing dates."
+      ]
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "icici-credit-card-statement",
+      "document": "Credit card e-statement",
+      "issuer": "ICICI Bank",
+      "passwordFormat": "First four letters of name on credit card in lowercase + birth day and month as DDMM; no spaces or special characters.",
+      "example": {
+        "name": "Meera Fiction",
+        "dateOfBirth": "1994-07-09",
+        "password": "meer0907"
+      },
+      "variants": [],
+      "sourceUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/faqs",
+      "sourceQuotes": [
+        "first four letters of your name (as printed on your Credit Card, in lowercase)",
+        "date and month of birth in DDMM format"
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official FAQ gives this format, but an official bank blog gives a different format for downloaded PDFs. See the separate channel-specific record."
+      ]
+    },
+    {
+      "id": "icici-credit-card-netbanking-pdf",
+      "document": "Credit card statement PDF downloaded from Net Banking",
+      "issuer": "ICICI Bank",
+      "passwordFormat": "Last four digits of credit card number.",
+      "example": {
+        "fictitiousCardEnding": "6789",
+        "password": "6789"
+      },
+      "variants": [],
+      "sourceUrl": "https://www.icici.bank.in/personal-banking/blogs/card/credit-card/credit-card-statement-online",
+      "sourceQuotes": [
+        "Use the last 4 digits of your credit card number to open the downloaded PDF."
+      ],
+      "confidence": "CONFIRMED_WITH_OFFICIAL_CONFLICT",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Conflicts with the bank’s e-statement FAQ. This is confirmed as a published instruction, not a universal guarantee for every ICICI statement."
+      ]
+    },
+    {
+      "id": "axis-credit-card-statement",
+      "document": "Credit card e-statement",
+      "issuer": "Axis Bank",
+      "passwordFormat": "Four letters of name in UPPER CASE + four digits of date of birth; alternative: four letters of name in UPPER CASE + nine-digit customer ID. Ignore spaces and periods in name.",
+      "example": null,
+      "variants": [
+        "Official page does not specify the ordering of the four birth-date digits or explicitly say “first” four letters. Do not silently turn this into a fully confirmed DDMM rule."
+      ],
+      "sourceUrl": "https://application.axis.bank.in/webforms/axis-support/sub-issues/Cards-Credit-statement-5.aspx",
+      "sourceQuotes": [
+        "four letters of your name in UPPER CASE",
+        "four digits of your date of birth",
+        "the nine digits of your customer Id"
+      ],
+      "confidence": "PARTIALLY_CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No fully specified issuer example was found, so a working password is not inferred."
+      ]
+    },
+    {
+      "id": "indusind-account-statement",
+      "document": "Account statement delivered by email (Select mailer)",
+      "issuer": "IndusInd Bank",
+      "passwordFormat": "First four characters of name in UPPER CASE + date of birth in DDMM; alternative: eight-digit Customer ID.",
+      "example": {
+        "name": "Meera Fiction",
+        "dateOfBirth": "1994-07-09",
+        "password": "MEER0907"
+      },
+      "variants": [
+        "Customer ID is an explicitly documented alternative.",
+        "No joint-holder, NRI or business-specific derivation was confirmed."
+      ],
+      "sourceUrl": "https://www.indusind.bank.in/in/en/emailers/2025/sept/care-sa-statement-mailers-for-sept-2025/Statement-of-Account/Select/Select.html",
+      "sourceQuotes": [
+        "first 4 characters of your name and your date of birth in the DDMM format.",
+        "Password (UPPER CASE ONLY)",
+        "8 digit Customer ID"
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Scope is the official Select account-statement mailer; do not generalize to all IndusInd products."
+      ]
+    },
+    {
+      "id": "federal-account-statement",
+      "document": "Account statement (FedMobile instructions)",
+      "issuer": "Federal Bank",
+      "passwordFormat": "First four letters of name or firm name in capitals + Date of Birth or firm’s Date of Incorporation in DDMM; no spaces or special characters.",
+      "example": {
+        "name": "Meera Fiction",
+        "dateOfBirth": "1994-07-09",
+        "password": "MEER0907"
+      },
+      "variants": [
+        "For firm: use firm name and date of incorporation.",
+        "Short-name example on issuer page carries letters into the next word."
+      ],
+      "sourceUrl": "https://www.federalbank.co.in/en/how-to-download-federal-bank-account-statement",
+      "sourceQuotes": [
+        "first four letters of your name/name of your firm, all in capitals",
+        "Date of Birth/firm’s Date of Incorporation in DDMM format."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Published within the FedMobile section. Other channels are described but no separate password variants are supplied."
+      ]
+    },
+    {
+      "id": "ais-pdf",
+      "document": "Annual Information Statement PDF",
+      "issuer": "Income Tax Department",
+      "passwordFormat": "PAN in lowercase + date of birth (individual) or incorporation/formation (non-individual), in DDMMYYYY, without spaces.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "dateOfBirth": "1994-07-09",
+        "password": "abcde1234f09071994"
+      },
+      "variants": [
+        "Non-individual: incorporation/formation date replaces date of birth.",
+        "AIS JSON import uses uppercase PAN according to the same official page; that is not the PDF rule."
+      ],
+      "sourceUrl": "https://www.incometaxindia.gov.in/annual-information-statement",
+      "sourceQuotes": [
+        "PAN (in lower case)",
+        "date of incorporation/formation for the non-individual taxpayer in the format DDMMYYYY without any space."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Case distinction between PDF and JSON is explicit in the source."
+      ]
+    },
+    {
+      "id": "nps-transaction-statement",
+      "document": "Monthly/annual NPS transaction statement",
+      "issuer": "PFRDA / NPS CRA",
+      "passwordFormat": "Official historical wording: “first 4 digits of subscriber’s name followed by DDMM of DOB.”",
+      "example": null,
+      "variants": [
+        "Case, short names, spaces and padding are not specified in the official bulletin."
+      ],
+      "sourceUrl": "https://pfrda.org.in/documents/33652/145901/November%2B2016.pdf",
+      "sourceQuotes": [
+        "Password will be the first 4 digits of subscriber's name followed by DDMM of DOB."
+      ],
+      "confidence": "PARTIALLY_CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Historical PFRDA bulletin. “digits of name” is the source’s wording, preserved without correcting it to letters. Current exact case/padding is unconfirmed, so no fabricated working example is supplied.",
+        "Downloaded to downloads/nps-password.pdf and read with pypdf."
+      ]
+    },
+    {
+      "id": "zerodha-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "Zerodha",
+      "passwordFormat": "Full PAN in uppercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [],
+      "sourceUrl": "https://support.zerodha.com/category/console/reports/contract-note/articles/where-can-i-get-the-contract-notes-for-the-trades-i-ve-taken",
+      "sourceQuotes": [
+        "Open these contract notes using your PAN (in capital letters) as the password."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "groww-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "Groww",
+      "passwordFormat": "Full PAN in uppercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [],
+      "sourceUrl": "https://groww.in/help/my-account/ma-others/where-can-i-get-the-contract-note",
+      "sourceQuotes": [
+        "Note: The password to open the report is your PAN number in capital letters."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "upstox-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "Upstox",
+      "passwordFormat": "Full PAN in lowercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "abcde1234f"
+      },
+      "variants": [],
+      "sourceUrl": "https://upstox.com/help-center/how-can-i-access-and-download-the-contract-note-248457/",
+      "sourceQuotes": [
+        "To access contract note, use your PAN (lowercase)."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "five-paisa-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "5paisa",
+      "passwordFormat": "Full PAN in uppercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [],
+      "sourceUrl": "https://forum.5paisa.com/portal/en/kb/articles/what-is-the-password-to-open-the-contract-note",
+      "sourceQuotes": [
+        "Format: Ensure that you enter the PAN card number in uppercase."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "kotak-neo-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "Kotak Neo",
+      "passwordFormat": "Full PAN in uppercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [],
+      "sourceUrl": "https://www.kotakneo.com/bulletins/key-changes-in-contract-note/",
+      "sourceQuotes": [
+        "Contract notes will be password-protected (Use PAN in uppercase, without spaces)."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "share-india-contract-note",
+      "document": "Contract note PDF",
+      "issuer": "Share India",
+      "passwordFormat": "Full PAN in uppercase.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [],
+      "sourceUrl": "https://www.shareindia.com/inquiries",
+      "sourceQuotes": [
+        "The password for your contract note will be your PAN number (In Capital letters)."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No account-type-specific exception was confirmed. This instruction is for contract notes; it is not automatically applied to other reports."
+      ]
+    },
+    {
+      "id": "jio-postpaid-bill",
+      "document": "Postpaid e-bill PDF",
+      "issuer": "Reliance Jio",
+      "passwordFormat": "First four letters of registered connection name in lowercase, ignoring spaces, + last four digits of Jio postpaid number.",
+      "example": {
+        "name": "Meera Fiction",
+        "fictitiousNumberEnding": "6789",
+        "password": "meer6789"
+      },
+      "variants": [],
+      "sourceUrl": "https://www.jio.com/help/faq/mobile/postpaid-offerings/billing-payments/what-is-the-password-for-my-postpaid-e-bill/",
+      "sourceQuotes": [
+        "first 4 letters of the name",
+        "(in lower case)",
+        "ignore spaces in the name if any",
+        "last 4-digits of your Jio postpaid number."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "No rule for names shorter than the prescribed name portion was found."
+      ]
+    },
+    {
+      "id": "icici-prudential-policy",
+      "document": "E-Welcome Kit / policy document",
+      "issuer": "ICICI Prudential Life Insurance",
+      "passwordFormat": "First four letters of name + date of birth in DDMM; official example uses lowercase.",
+      "example": {
+        "name": "Meera Fiction",
+        "dateOfBirth": "1994-07-09",
+        "password": "meer0907"
+      },
+      "variants": [
+        "Lowercase is supported by the issuer’s example rather than an explicit general case instruction."
+      ],
+      "sourceUrl": "https://www.iciciprulife.com/services/e-welcome-kit.html?UID=010320191333",
+      "sourceQuotes": [
+        "a combination of the first four letters of your name and your date of birth in DDMM format.",
+        "amit0312"
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "The page identifies the document bundle as including policy certificate, first premium receipt, key features and terms. Do not apply this to unrelated insurers."
+      ]
+    },
+    {
+      "id": "bandhan-fd-advice",
+      "document": "Neo+ Digital Fixed Deposit advice sent by email",
+      "issuer": "Bandhan Bank",
+      "passwordFormat": "Date of birth in DDMM.",
+      "example": {
+        "dateOfBirth": "1994-07-09",
+        "password": "0907"
+      },
+      "variants": [],
+      "sourceUrl": "https://bandhan.bank.in/faq",
+      "sourceQuotes": [
+        "password protected FD advice from the email using their date of birth in DDMM format as the password."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Confirmed in the Neo+ Digital Fixed Deposit section; not generalized to every FD channel."
+      ]
+    },
+    {
+      "id": "baroda-bnp-mutual-fund-statement",
+      "document": "Mutual fund statement of account",
+      "issuer": "Baroda BNP Paribas Mutual Fund",
+      "passwordFormat": "PAN in capitals; minors use Guardian PAN. If PAN is not registered: first four letters of first holder name + last four folio digits.",
+      "example": {
+        "fictitiousPan": "ABCDE1234F",
+        "password": "ABCDE1234F"
+      },
+      "variants": [
+        "Minor investor uses Guardian PAN.",
+        "No registered PAN: name/folio fallback; issuer examples show lowercase with spaces and punctuation omitted."
+      ],
+      "sourceUrl": "https://www.barodabnpparibasmf.in/assets/download_documents/Statement-of-account_702.pdf",
+      "sourceQuotes": [
+        "your PAN number in capital letters.",
+        "please use the Guardian PAN",
+        "first 4 letters of the first holder name and the last 4 digits of the folio number."
+      ],
+      "confidence": "CONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "This is a single-fund statement, not an excluded consolidated CAS. Fallback case/punctuation is illustrated rather than exhaustively defined. Downloaded instruction PDF read with pypdf."
+      ]
+    },
+    {
+      "id": "sbi-card-statement",
+      "document": "Credit card statement",
+      "issuer": "SBI Card",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.sbicard.com/en/faq/statement-billing-related.page",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official statement/billing FAQ explains delivery and download but no PDF-opening formula was found. Login passwords are not PDF passwords.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "hdfc-credit-card-statement",
+      "document": "Credit card statement",
+      "issuer": "HDFC Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.hdfc.bank.in/need-help/net-banking-faqs",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official sources searched; no credit-card PDF-opening formula confirmed. Bank-account instructions are not substituted.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "kotak-credit-card-statement",
+      "document": "Credit card e-statement",
+      "issuer": "Kotak Mahindra Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/credit-card-services/estatement-registration/ways-to-register.html",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official page confirms encrypted statements, but does not give the password derivation.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "au-credit-card-statement",
+      "document": "Credit card statement",
+      "issuer": "AU Small Finance Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Issuer-domain searches did not establish an official PDF password formula.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "idfc-first-credit-card-statement",
+      "document": "Credit card statement",
+      "issuer": "IDFC FIRST Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.idfcfirst.bank.in/finfirst-blogs/credit-card/how-to-check-credit-card-balance",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official page confirms password protection but no exact formula was established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "onecard-statement",
+      "document": "Credit card statement",
+      "issuer": "OneCard / issuing bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official issuer help searches did not establish a PDF password formula. No cross-bank formula assumed.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "pnb-account-statement",
+      "document": "Account statement",
+      "issuer": "Punjab National Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.pnb.bank.in/downloadprocess.aspx?fid=sQayUZYu36kMvVkdgrXrFg%3D%3D",
+      "sourceQuotes": [
+        "The account statement will be delivered as a password-protected PDF on WhatsApp."
+      ],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official service page read; PDF password derivation not established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact.",
+        "Issuer press release confirms protection; it does not publish the opening-password construction."
+      ]
+    },
+    {
+      "id": "bob-account-statement",
+      "document": "Account statement",
+      "issuer": "Bank of Baroda",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/how-to-get-a-bank-statement-online",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official page confirms a password-protected statement PDF but provides no exact derivation.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "canara-account-statement",
+      "document": "Account statement",
+      "issuer": "Canara Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.canarabank.bank.in/web/guest/mobile-bankings",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official sources searched; no exact PDF-opening formula established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "union-account-statement",
+      "document": "Account statement",
+      "issuer": "Union Bank of India",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.unionbankofindia.bank.in/pdf/User-Manual-for-Accessing-Union-Bank-of-India-Internet-Banking-Portal-with-Keyboard-and-Screen-Reader.pdf",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official internet-banking manual was used as a lead; no PDF-opening formula established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "yes-account-statement",
+      "document": "Account statement",
+      "issuer": "YES BANK",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.yes.bank.in/digital-banking/online-banking/netbanking-services",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official service information covers statements and portal passwords; no exact PDF-opening formula established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "idfc-first-account-statement",
+      "document": "Account statement",
+      "issuer": "IDFC FIRST Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain searches did not establish a PDF-opening formula. Conflicting third-party rules excluded.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "au-account-statement",
+      "document": "Account statement",
+      "issuer": "AU Small Finance Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain searches did not establish a PDF-opening formula.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "idbi-account-statement",
+      "document": "Account statement",
+      "issuer": "IDBI Bank",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.idbi.bank.in/how-do-i.aspx",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official statement-request instructions read; no PDF-opening formula established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "boi-account-statement",
+      "document": "Account statement",
+      "issuer": "Bank of India",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://bankofindia.co.in/documents/20121/1222749/Citizen_Charter-2013.pdf",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official charter confirms password-encrypted emailed account statements but not the password derivation.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "tis-pdf",
+      "document": "Taxpayer Information Summary PDF",
+      "issuer": "Income Tax Department",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.incometaxindia.gov.in/annual-information-statement",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official AIS instructions were found, but an explicit TIS-specific password rule was not established. Do not infer from AIS.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "itr-v-pdf",
+      "document": "ITR-V / acknowledgement PDF",
+      "issuer": "Income Tax Department",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "The common PAN-plus-date rule was found in third-party copies/guides but no issuer-hosted password instruction was read. Remains unconfirmed under the strict source rule.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "lic-policy-documents",
+      "document": "Policy bond / premium receipt PDFs",
+      "issuer": "Life Insurance Corporation of India",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://licindia.in/en/web/guest/policy-status",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official customer portal instructions were read; no document-specific PDF password formula established. Portal passwords are not PDF passwords.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "cibil-report",
+      "document": "Consumer credit report PDF",
+      "issuer": "TransUnion CIBIL",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.cibil.com/contact-us-faq",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official FAQ discusses myCIBIL login recovery and reports but no PDF-opening formula was established. Partner-delivered reports may use other rules; none confirmed here.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "experian-report",
+      "document": "Consumer credit report PDF",
+      "issuer": "Experian India",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain search did not establish a password formula. Partner formats are not treated as Experian issuer instructions.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "airtel-bill",
+      "document": "Postpaid / broadband e-bill",
+      "issuer": "Bharti Airtel",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.airtel.in/mobile/terms-conditions",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official terms reference e-bill credentials but do not establish a fixed PDF-opening formula. Sri Lankan Airtel instructions were excluded.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "vi-bill",
+      "document": "Postpaid e-bill",
+      "issuer": "Vodafone Idea",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official Indian issuer-domain search did not establish the PDF password formula.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "bsnl-bill",
+      "document": "Telecom bill PDF",
+      "issuer": "Bharat Sanchar Nigam Limited",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain search did not establish a PDF-opening formula.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "electricity-bill",
+      "document": "Electricity bill PDF",
+      "issuer": "Indian electricity distributors; no common issuer",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official electricity-domain searches did not establish a universal PDF password scheme. No distributor-specific formula confirmed.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "payslip",
+      "document": "Salary / pension payslip PDF",
+      "issuer": "Employer or pension-disbursing authority; no common issuer",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.ndmc.gov.in/emp_services/payslip_login.aspx",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official payroll pages found are login-password pages. A user comment on a government-hosted forum is not an authoritative PDF password instruction. No universal scheme confirmed.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "insurance-policy-other",
+      "document": "Policy document PDF (other insurers)",
+      "issuer": "HDFC Life / HDFC ERGO / SBI Life",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain sources checked but no exact PDF-opening formula established; ICICI Prudential is separately confirmed.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "voter-id-e-epic",
+      "document": "e-EPIC PDF",
+      "issuer": "Election Commission of India",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official-domain searches did not establish that e-EPIC uses a fixed PDF-opening password. No DOB/Aadhaar-style rule inferred.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "digilocker-documents",
+      "document": "Documents downloaded through DigiLocker",
+      "issuer": "DigiLocker / individual document issuer",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://wb.digilocker.gov.in/web/about/faq",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official FAQ covers platform authentication; no universal PDF-opening password formula established. Rules may belong to the issuing authority.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "uan-card",
+      "document": "UAN card PDF",
+      "issuer": "Employees’ Provident Fund Organisation",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": "https://www.epfindia.gov.in/site_docs/PDFs/UAN_PDFs/UAN_ForMembers/FAQ-Member-July2015.pdf",
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Official FAQ distinguishes member-portal login and UAN card download. No PDF-opening password formula established; UAN portal password is not substituted.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "zerodha-other-statements",
+      "document": "Ledger / other account statements",
+      "issuer": "Zerodha",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Contract-note rule confirmed separately; no exact password rule for these other reports was established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "groww-other-statements",
+      "document": "Ledger / other account statements",
+      "issuer": "Groww",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Contract-note rule confirmed separately; no exact password rule for these other reports was established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    },
+    {
+      "id": "upstox-other-statements",
+      "document": "Ledger / other account statements",
+      "issuer": "Upstox",
+      "passwordFormat": null,
+      "example": null,
+      "variants": [],
+      "sourceUrl": null,
+      "sourceQuotes": [],
+      "confidence": "UNCONFIRMED",
+      "notes": [
+        "Research as of 2026-10-25. Examples are fictitious.",
+        "Contract-note rule confirmed separately; no exact password rule for these other reports was established.",
+        "Unconfirmed fields intentionally remain null; no third-party formula is promoted to an official fact."
+      ]
+    }
+  ]
+}

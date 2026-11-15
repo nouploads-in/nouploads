@@ -1,0 +1,26 @@
+{
+  "name": "noupload",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/generate-exams.mjs && vite",
+    "build": "node scripts/generate-exams.mjs && tsc --noEmit && vite build && node scripts/build-pwa.mjs",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "verify:offline": "node scripts/verify-offline.mjs",
+    "verify:clean-urls": "node scripts/verify-clean-urls.mjs",
+    "verify:fit": "node scripts/verify-fit.mjs",
+    "icons": "node scripts/create-icons.mjs"
+  },
+  "dependencies": {
+    "@neslinesli93/qpdf-wasm": "^0.3.0",
+    "cropperjs": "1.6.2"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vite": "8.0.16",
+    "vitest": "4.1.8"
+  },
+  "license": "AGPL-3.0-only"
+}

@@ -1,0 +1,937 @@
+[
+  {
+    "id": "punjab-police",
+    "name": "Punjab Police",
+    "state": "Punjab",
+    "body": "Punjab Police (Department of Police, Government of Punjab)",
+    "officialSiteUrl": "https://punjabpolice.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "psssb",
+    "name": "PSSSB",
+    "state": "Punjab",
+    "body": "Punjab Subordinate Services Selection Board (PSSSB)",
+    "officialSiteUrl": "https://sssb.punjab.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ppsc-punjab",
+    "name": "PPSC Punjab",
+    "state": "Punjab",
+    "body": "Punjab Public Service Commission (PPSC), India",
+    "officialSiteUrl": "https://ppsc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "haryana-police",
+    "name": "Haryana Police",
+    "state": "Haryana",
+    "body": "Haryana Staff Selection Commission (HSSC)",
+    "officialSiteUrl": "https://hssc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "hpsc",
+    "name": "HPSC",
+    "state": "Haryana",
+    "body": "Haryana Public Service Commission (HPSC)",
+    "officialSiteUrl": "https://hpsc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "htet",
+    "name": "HTET",
+    "state": "Haryana",
+    "body": "Board of School Education Haryana (BSEH)",
+    "officialSiteUrl": "https://bseh.org.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "hppsc-police",
+    "name": "HPPSC Police",
+    "state": "Himachal Pradesh",
+    "body": "Himachal Pradesh Public Service Commission (HPPSC)",
+    "officialSiteUrl": "https://hppsc.hp.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "delhi-police",
+    "name": "Delhi Police",
+    "state": "Delhi",
+    "body": "Staff Selection Commission (SSC) with Delhi Police",
+    "officialSiteUrl": "https://ssc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "dsssb",
+    "name": "DSSSB",
+    "state": "Delhi",
+    "body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "officialSiteUrl": "https://dsssb.delhi.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "delhi-tet",
+    "name": "Delhi TET",
+    "state": "Delhi",
+    "body": "Directorate of Education, Government of NCT of Delhi",
+    "officialSiteUrl": "https://edudel.nic.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "jkssb",
+    "name": "JKSSB",
+    "state": "Jammu & Kashmir",
+    "body": "Jammu and Kashmir Services Selection Board (JKSSB)",
+    "officialSiteUrl": "https://www.jkssb.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "jkbopee-cet",
+    "name": "JKBOPEE CET",
+    "state": "Jammu & Kashmir",
+    "body": "J&K Board of Professional Entrance Examination (JKBOPEE)",
+    "officialSiteUrl": "https://jkbopee.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "jkpsc",
+    "name": "JKPSC",
+    "state": "Jammu & Kashmir",
+    "body": "Jammu and Kashmir Public Service Commission (JKPSC)",
+    "officialSiteUrl": "https://jkpsc.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "chandigarh-police",
+    "name": "Chandigarh Police",
+    "state": "Chandigarh",
+    "body": "Chandigarh Police (UT Administration)",
+    "officialSiteUrl": "https://chandigarhpolice.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "wbcs",
+    "name": "WBCS",
+    "state": "West Bengal",
+    "body": "West Bengal Public Service Commission (WBPSC)",
+    "officialSiteUrl": "https://psc.wb.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "wbpsc-clerkship",
+    "name": "WBPSC Clerkship",
+    "state": "West Bengal",
+    "body": "West Bengal Public Service Commission (WBPSC)",
+    "officialSiteUrl": "https://psc.wb.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "wbjee",
+    "name": "WBJEE",
+    "state": "West Bengal",
+    "body": "West Bengal Joint Entrance Examinations Board (WBJEEB)",
+    "officialSiteUrl": "https://wbjeeb.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "wbtet",
+    "name": "WBTET",
+    "state": "West Bengal",
+    "body": "West Bengal Board of Primary Education (WBBPE)",
+    "officialSiteUrl": "https://wbbpe.org",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "slst",
+    "name": "SLST",
+    "state": "West Bengal",
+    "body": "West Bengal Board of Secondary Education, School Service Commission (WBSSC)",
+    "officialSiteUrl": "https://wbssc.org.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "assam-police",
+    "name": "Assam Police",
+    "state": "Assam",
+    "body": "State Level Police Recruitment Board, Assam (SLPRB)",
+    "officialSiteUrl": "https://slprbassam.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "special-assam-tet",
+    "name": "Special Assam TET",
+    "state": "Assam",
+    "body": "Department of School Education, Government of Assam (via SEBA)",
+    "officialSiteUrl": "https://sebaonline.org",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "apsc-cce",
+    "name": "APSC CCE",
+    "state": "Assam",
+    "body": "Assam Public Service Commission (APSC)",
+    "officialSiteUrl": "https://apsc.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "meghalaya-mpsc",
+    "name": "Meghalaya MPSC",
+    "state": "Meghalaya",
+    "body": "Meghalaya Public Service Commission (MPSC)",
+    "officialSiteUrl": "https://mpsc.meghalaya.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tripura-tet",
+    "name": "Tripura TET",
+    "state": "Tripura",
+    "body": "Tripura Board of Secondary Education, Tripura Board of Teacher Recruitment (TRBT)",
+    "officialSiteUrl": "https://trb.tripura.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "manipur-mpsc",
+    "name": "Manipur MPSC",
+    "state": "Manipur",
+    "body": "Manipur Public Service Commission (MPSC)",
+    "officialSiteUrl": "https://mpscmanipur.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "mssc",
+    "name": "MSSC",
+    "state": "Manipur",
+    "body": "Manipur Staff Selection Commission (MSSC)",
+    "officialSiteUrl": "https://manipurssc.mn.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "up-police",
+    "name": "UP Police",
+    "state": "Uttar Pradesh",
+    "body": "UP Police Recruitment and Promotion Board",
+    "officialSiteUrl": "https://uppbpb.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "upsssc",
+    "name": "UPSSSC",
+    "state": "Uttar Pradesh",
+    "body": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    "officialSiteUrl": "https://upsssc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "upsee",
+    "name": "UPSEE",
+    "state": "Uttar Pradesh",
+    "body": "AKTU on behalf of the UP government",
+    "officialSiteUrl": "https://aktu.ac.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "bpsc-cce",
+    "name": "BPSC CCE",
+    "state": "Bihar",
+    "body": "Bihar Public Service Commission (BPSC)",
+    "officialSiteUrl": "https://bpsc.bih.nic.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "bpsc-tre",
+    "name": "BPSC TRE",
+    "state": "Bihar",
+    "body": "Bihar Public Service Commission (BPSC)",
+    "officialSiteUrl": "https://bpsc.bih.nic.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "bssc",
+    "name": "BSSC",
+    "state": "Bihar",
+    "body": "Bihar Staff Selection Commission (BSSC)",
+    "officialSiteUrl": "https://onlinebssc.com",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "bcece",
+    "name": "BCECE",
+    "state": "Bihar",
+    "body": "Bihar Combined Entrance Competitive Examination Board",
+    "officialSiteUrl": "https://bceceboard.bihar.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "rpsc-ras",
+    "name": "RPSC RAS",
+    "state": "Rajasthan",
+    "body": "Rajasthan Public Service Commission (RPSC)",
+    "officialSiteUrl": "https://rpsc.rajasthan.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "rsmssb",
+    "name": "RSMSSB",
+    "state": "Rajasthan",
+    "body": "Rajasthan Subordinate and Ministerial Services Selection Board (RSMSSB)",
+    "officialSiteUrl": "https://rsmssb.rajasthan.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "reet",
+    "name": "REET",
+    "state": "Rajasthan",
+    "body": "Board of Secondary Education, Rajasthan (REET)",
+    "officialSiteUrl": "https://rajeduboard.rajasthan.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "rpmt",
+    "name": "RPMT",
+    "state": "Rajasthan",
+    "body": "Rajasthan University of Health Sciences (RUHS)",
+    "officialSiteUrl": "https://ruhsraj.org",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "mppsc",
+    "name": "MPPSC",
+    "state": "Madhya Pradesh",
+    "body": "Madhya Pradesh Public Service Commission (MPPSC)",
+    "officialSiteUrl": "https://mppsc.mp.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "mp-police",
+    "name": "MP Police",
+    "state": "Madhya Pradesh",
+    "body": "Madhya Pradesh Employees Selection Board (ESB/MPESB)",
+    "officialSiteUrl": "https://esb.mp.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "mp-tet",
+    "name": "MP TET",
+    "state": "Madhya Pradesh",
+    "body": "Madhya Pradesh Employees Selection Board (ESB/MPESB)",
+    "officialSiteUrl": "https://esb.mp.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "cgpsc",
+    "name": "CGPSC",
+    "state": "Chhattisgarh",
+    "body": "Chhattisgarh Public Service Commission (CGPSC)",
+    "officialSiteUrl": "https://cgpsc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "cg-vyapam-police",
+    "name": "CG Vyapam Police",
+    "state": "Chhattisgarh",
+    "body": "Chhattisgarh Professional Examination Board (Vyapam)",
+    "officialSiteUrl": "https://vyapamcg.cgstate.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "cg-police-si",
+    "name": "CG Police SI",
+    "state": "Chhattisgarh",
+    "body": "Chhattisgarh Police / CG Vyapam (not confirmed)",
+    "officialSiteUrl": "https://cgpolice.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "jpsc",
+    "name": "JPSC",
+    "state": "Jharkhand",
+    "body": "Jharkhand Public Service Commission (JPSC)",
+    "officialSiteUrl": "https://jpsc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "jssc-police",
+    "name": "JSSC Police",
+    "state": "Jharkhand",
+    "body": "Jharkhand Staff Selection Commission (JSSC)",
+    "officialSiteUrl": "https://jssc.nic.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "jtet",
+    "name": "JTET",
+    "state": "Jharkhand",
+    "body": "Jharkhand Academic Council (JAC)",
+    "officialSiteUrl": "https://jac.jharkhand.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "jcece",
+    "name": "JCECE",
+    "state": "Jharkhand",
+    "body": "Jharkhand Combined Entrance Competitive Examination Board",
+    "officialSiteUrl": "https://jceceb.jharkhand.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "ukpsc",
+    "name": "UKPSC",
+    "state": "Uttarakhand",
+    "body": "Uttarakhand Public Service Commission (UKPSC)",
+    "officialSiteUrl": "https://ukpsc.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "uksssc",
+    "name": "UKSSSC",
+    "state": "Uttarakhand",
+    "body": "Uttarakhand Subordinate Staff Selection Commission (UKSSSC)",
+    "officialSiteUrl": "https://sssc.uk.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "utet",
+    "name": "UTET",
+    "state": "Uttarakhand",
+    "body": "Uttarakhand Board of School Education (UBSE)",
+    "officialSiteUrl": "https://ubse.uk.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "appsc",
+    "name": "APPSC",
+    "state": "Andhra Pradesh",
+    "body": "Andhra Pradesh Public Service Commission (APPSC)",
+    "officialSiteUrl": "https://psc.ap.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ap-police",
+    "name": "AP Police",
+    "state": "Andhra Pradesh",
+    "body": "Andhra Pradesh State Level Police Recruitment Board (SLPRB)",
+    "officialSiteUrl": "https://slprb.ap.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ap-tet",
+    "name": "AP TET",
+    "state": "Andhra Pradesh",
+    "body": "Department of School Education, Andhra Pradesh (via APCFSS)",
+    "officialSiteUrl": "https://tet2dsc.apcfss.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ap-dsc",
+    "name": "AP DSC",
+    "state": "Andhra Pradesh",
+    "body": "Department of School Education, Andhra Pradesh (via APCFSS)",
+    "officialSiteUrl": "https://tet2dsc.apcfss.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ap-eapcet",
+    "name": "AP EAPCET",
+    "state": "Andhra Pradesh",
+    "body": "Andhra Pradesh State Council of Higher Education (APSCHE), conducted by JNTU Kakinada",
+    "officialSiteUrl": "https://cets.apsche.ap.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tgpsc",
+    "name": "TGPSC",
+    "state": "Telangana",
+    "body": "Telangana State Public Service Commission (TGPSC)",
+    "officialSiteUrl": "https://www.tgpsc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tg-police",
+    "name": "TG Police",
+    "state": "Telangana",
+    "body": "Telangana State Level Police Recruitment Board (TSLPRB)",
+    "officialSiteUrl": "https://tgprb.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tg-tet",
+    "name": "TG TET",
+    "state": "Telangana",
+    "body": "Department of School Education, Telangana (TG TET)",
+    "officialSiteUrl": "https://tgtet.aptonline.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tg-eapcet",
+    "name": "TG EAPCET",
+    "state": "Telangana",
+    "body": "Telangana Council of Higher Education (TGCHE), conducted by JNTU Hyderabad",
+    "officialSiteUrl": "https://eapcet.tgche.ac.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tg-icet",
+    "name": "TG ICET",
+    "state": "Telangana",
+    "body": "Telangana Council of Higher Education (TGCHE), conducted by Mahatma Gandhi University, Nalgonda",
+    "officialSiteUrl": "https://icet.tgche.ac.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "opsc",
+    "name": "OPSC",
+    "state": "Odisha",
+    "body": "Odisha Public Service Commission (OPSC)",
+    "officialSiteUrl": "https://www.opsc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "osssc",
+    "name": "OSSSC",
+    "state": "Odisha",
+    "body": "Odisha Staff Selection Commission (OSSSC)",
+    "officialSiteUrl": "https://www.osssc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "otet",
+    "name": "OTET",
+    "state": "Odisha",
+    "body": "Board of Secondary Education, Odisha (BSE Odisha)",
+    "officialSiteUrl": "https://bseodisha.ac.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ojee",
+    "name": "OJEE",
+    "state": "Odisha",
+    "body": "Odisha Joint Entrance Examination Committee, under the Skill Development and Technical Education Department",
+    "officialSiteUrl": "https://ojee.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "odisha-police",
+    "name": "Odisha Police",
+    "state": "Odisha",
+    "body": "Odisha Police recruitment drive",
+    "officialSiteUrl": "https://odishapolice.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "maharashtra-police",
+    "name": "Maharashtra Police",
+    "state": "Maharashtra",
+    "body": "Maharashtra Police (Home Department)",
+    "officialSiteUrl": "https://mahapolice.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "mpsc-maharashtra",
+    "name": "MPSC Maharashtra",
+    "state": "Maharashtra",
+    "body": "Maharashtra Public Service Commission (MPSC)",
+    "officialSiteUrl": "https://mpsc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "maha-tet",
+    "name": "MAHA TET",
+    "state": "Maharashtra",
+    "body": "Maharashtra State Council of Examination (MSCE), Pune",
+    "officialSiteUrl": "https://mahatet.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "mht-cet",
+    "name": "MHT CET",
+    "state": "Maharashtra",
+    "body": "State Common Entrance Test Cell, Government of Maharashtra",
+    "officialSiteUrl": "https://cetcell.mahacet.org",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gsssb",
+    "name": "GSSSB",
+    "state": "Gujarat",
+    "body": "Gujarat Subordinate Services Selection Board (GSSSB)",
+    "officialSiteUrl": "https://gsssb.gujarat.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gpsc-gujarat",
+    "name": "GPSC Gujarat",
+    "state": "Gujarat",
+    "body": "Gujarat Public Service Commission (GPSC)",
+    "officialSiteUrl": "https://gpsc.gujarat.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gujarat-tat",
+    "name": "Gujarat TAT",
+    "state": "Gujarat",
+    "body": "State Examination Board, Gujarat",
+    "officialSiteUrl": "https://ojas.gujarat.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gujcet-acpc",
+    "name": "GUJCET ACPC",
+    "state": "Gujarat",
+    "body": "GUJCET conducted by GSEB",
+    "officialSiteUrl": "https://acpc.gujarat.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gpsc-goa",
+    "name": "GPSC Goa",
+    "state": "Goa",
+    "body": "Goa Public Service Commission (GPSC)",
+    "officialSiteUrl": "https://gpsc.goa.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "gssc-goa",
+    "name": "GSSC Goa",
+    "state": "Goa",
+    "body": "Goa Staff Selection Commission (GSSC)",
+    "officialSiteUrl": "https://gssc.goa.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "goa-cet",
+    "name": "Goa CET",
+    "state": "Goa",
+    "body": "Directorate of Technical Education (DTE), Goa",
+    "officialSiteUrl": "https://dte.goa.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "kerala-psc",
+    "name": "Kerala PSC",
+    "state": "Kerala",
+    "body": "Kerala Public Service Commission",
+    "officialSiteUrl": "https://keralapsc.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "keam",
+    "name": "KEAM",
+    "state": "Kerala",
+    "body": "Commissioner of Entrance Examinations, Kerala",
+    "officialSiteUrl": "https://cee.kerala.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ktet",
+    "name": "KTET",
+    "state": "Kerala",
+    "body": "Kerala Government / Kerala PSC-linked KTET cell",
+    "officialSiteUrl": "https://ktet.kerala.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tnea",
+    "name": "TNEA",
+    "state": "Tamil Nadu",
+    "body": "Directorate of Technical Education, Tamil Nadu (TNEA counselling)",
+    "officialSiteUrl": "https://www.tneaonline.org",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "tnusrb",
+    "name": "TNUSRB",
+    "state": "Tamil Nadu",
+    "body": "Tamil Nadu Uniformed Services Recruitment Board",
+    "officialSiteUrl": "https://www.tnusrb.tn.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "kcet",
+    "name": "KCET",
+    "state": "Karnataka",
+    "body": "Karnataka Examinations Authority (KEA)",
+    "officialSiteUrl": "https://cetonline.karnataka.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "kpsc-kas",
+    "name": "KPSC KAS",
+    "state": "Karnataka",
+    "body": "Karnataka Public Service Commission",
+    "officialSiteUrl": "https://kpsc.kar.nic.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ksp-police",
+    "name": "KSP Police",
+    "state": "Karnataka",
+    "body": "Karnataka State Police, conducted via KEA",
+    "officialSiteUrl": "https://ksp-recruitment.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "kartet",
+    "name": "KARTET",
+    "state": "Karnataka",
+    "body": "Department of School Education, Karnataka",
+    "officialSiteUrl": "https://schooleducation.karnataka.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "puducherry-police",
+    "name": "Puducherry Police",
+    "state": "Puducherry",
+    "body": "Puducherry Police Department / Puducherry Examining Authority",
+    "officialSiteUrl": "https://police.py.gov.in",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "cat",
+    "name": "CAT",
+    "state": "National",
+    "body": "Indian Institutes of Management",
+    "officialSiteUrl": "https://iimcat.ac.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "clat-ug",
+    "name": "CLAT UG",
+    "state": "National",
+    "body": "Consortium of National Law Universities",
+    "officialSiteUrl": "https://consortiumofnlus.ac.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "rrb-group-d",
+    "name": "RRB Group D",
+    "state": "National",
+    "body": "Railway Recruitment Boards",
+    "officialSiteUrl": "https://rrbapply.gov.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": "agniveer",
+    "name": "Agniveer",
+    "state": "National",
+    "body": "Indian Army",
+    "officialSiteUrl": "https://joinindianarmy.nic.in",
+    "languages": [
+      "en",
+      "hi"
+    ]
+  }
+]

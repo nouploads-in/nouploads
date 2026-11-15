@@ -1,0 +1,240 @@
+{
+  "intents": [
+    {
+      "id": "unlock-pdf",
+      "heading": "Unlock PDF online: remove the password, free, no upload",
+      "title": "Unlock PDF online - free, no upload",
+      "description": "Unlock a PDF online free without uploading it. Enter the password you know, remove encryption locally, and download a copy to review before using it.",
+      "intro": "Unlock a PDF for everyday reading without typing its password each time. Choose your file, enter its known password once and save an unlocked copy. The original stays on your device.",
+      "angle": "Make a convenient reading copy",
+      "detail": "An unlocked copy can open directly in your PDF reader. Keep it somewhere private: anyone who can access that copy can read it without the old password."
+    },
+    {
+      "id": "remove-pdf-password",
+      "heading": "Remove PDF password without desktop software",
+      "title": "Remove PDF password without desktop software",
+      "description": "Remove a PDF password without installing desktop software. Use the known password in your browser and save an unlocked PDF locally, free with no uploads.",
+      "intro": "Skip the desktop installation when you only need to remove a known PDF password. This browser tool creates a downloadable unlocked copy without an account.",
+      "angle": "No desktop installation needed",
+      "detail": "Use a modern browser. You do not need a PDF editor or a browser extension. The initial visit downloads the app; wait for offline installation to finish before disconnecting."
+    },
+    {
+      "id": "pdf-password-remover",
+      "heading": "PDF password remover: offline, private, free",
+      "title": "PDF password remover - offline, private, free",
+      "description": "Use a private PDF password remover with no account or uploads. Files and known passwords stay in your browser, with free offline removal after initial setup.",
+      "intro": "Keep bank statements and personal documents on your device. This free PDF password remover processes your file and known password locally, with no account, upload or server storage.",
+      "angle": "Keep sensitive documents local",
+      "detail": "Passwords are cleared from the input after each attempt and are not saved to URLs, logs or storage. Temporary processing data is discarded after use. Save the unlocked download carefully because it no longer has password protection."
+    },
+    {
+      "id": "remove-password-from-pdf-offline",
+      "heading": "Remove PDF password offline, in your browser",
+      "title": "Remove PDF password offline in your browser",
+      "description": "Remove a known PDF password offline after the app installs. Turn off Wi-Fi, reload this page and unlock a file locally with no desktop software or uploads.",
+      "intro": "Prepare the app while connected, then remove a known PDF password when you have no connection. The tool works on your device, useful on a train or when handling a private file away from Wi-Fi.",
+      "angle": "Prove the offline workflow yourself",
+      "detail": "Wait until the footer says the app is ready offline. Turn off Wi-Fi and mobile data, reload this page, choose a PDF and unlock it. If the browser clears site data, reconnect once to install the app again."
+    }
+  ],
+  "documents": [
+    {
+      "id": "aadhaar",
+      "name": "Aadhaar",
+      "heading": "Aadhaar PDF password format - how to open e-Aadhaar",
+      "match": "e-Aadhaar (UIDAI download)",
+      "rule": "First four letters of the resident's name as printed on the Aadhaar, in CAPITALS, followed by the four-digit birth year (YYYY). Spaces are skipped when counting letters; punctuation is kept (UIDAI example: P. KUMAR, born 1990 gives P.KU1990). Short names are not padded: UIDAI's example RIA, born 1990, gives RIA1990 (one blog says use the full name for names under four letters, which conflicts). These reports use the birth year, not the full date of birth. Some sources describe this as a fixed UIDAI rule, but it is not confirmed here by UIDAI."
+    },
+    {
+      "id": "sbi-statement",
+      "name": "SBI statement",
+      "match": "SBI account statement (bank account, not credit card)",
+      "rule": "Reports differ by delivery channel. A short search result from sbi.co.in (full page not checked) says: an emailed e-statement requested by SMS (ESTMT followed by the account number) is encrypted with a 4-digit code the customer chooses at the time. Blogs claim other rules for net banking, mobile or branch statements: 11-digit account number; last 5 digits of registered mobile followed by DDMMYY; first 4 letters of name in caps plus DDMM; or customer ID. Not confirmed; the rule depends on how the statement was requested. Check the email or download-screen hint."
+    },
+    {
+      "id": "hdfc-statement",
+      "name": "HDFC statement",
+      "match": "HDFC Bank account statement (PDF download)"
+    },
+    {
+      "id": "icici-statement",
+      "name": "ICICI statement",
+      "match": "ICICI Bank savings account statement (e-statement)",
+      "confirmation": "preview",
+      "rule": "8 characters: first 4 letters of the account holder's name, in lowercase (the help page says the password is case-sensitive and lowercase), followed by DDMM of the holder's birth (or of incorporation for a current account). Joint account: use the first holder's details. A fallback 12-digit account number is mentioned on one page (the sources disagree on which digits are shown in the email subject). Credit card statements are outside the scope of this guide."
+    },
+    {
+      "id": "axis-statement",
+      "name": "Axis statement",
+      "match": "Axis Bank account statement (e-statement)",
+      "rule": "Not confirmed from an official Axis page (the e-statement page mentions password protection but the password rule is not confirmed here). Blog sources conflict: first 4 letters of name in UPPERCASE plus DDMM of date of birth (most commonly reported); DDMMYYYY date of birth; or first 4 letters of name plus the 9-digit Customer ID. Check the e-statement registration email or call customer care."
+    },
+    {
+      "id": "kotak-statement",
+      "name": "Kotak statement",
+      "match": "Kotak Mahindra Bank account statement (e-statement / PDF)",
+      "rule": "No official statement PDF password rule found. Kotak's help pages describe how the Customer Relationship Number (CRN) is used to regenerate the Net Banking password and to get a CRN by SMS, but do not state the statement PDF password. Blogs claim (a) CRN as the statement password, (b) DOB as DDMMYYYY, or (c) first 4 letters of name in caps plus last 4 digits of the customer ID. These conflict. Confirm with Kotak before relying on any of them.",
+      "example": "Blog variants only: CRN 123456789; DOB 15031990; or ASHA1234 for name Asha and customer ID ending 1234 (illustrative only)"
+    },
+    {
+      "id": "cams-cas",
+      "name": "CAMS CAS",
+      "heading": "CAMS CAS PDF password: the one you set when requesting it",
+      "match": "CAMS mutual fund Consolidated Account Statement (CAS, requested on CAMS)",
+      "rule": "Not a fixed rule: the password is the custom one you set when you request the statement on CAMS. CAMS says the statement is encrypted with that password and emailed only to the folio's registered email. The request form describes the password as alphanumeric and also requires a special character. Its rules: starts with a letter, 8 to 15 characters, at least one uppercase letter, at least one digit, and at least one of @ # $ * _. Blogs claim PAN in capitals or DDMMYYYY date of birth for auto-emailed statements; these are unconfirmed.",
+      "toolDescription": "Unlock your CAMS CAS PDF here: enter the password you set on the request form and save a copy that opens without it. Runs in your browser, no uploads."
+    },
+    {
+      "id": "kfintech-cas",
+      "name": "KFintech CAS",
+      "match": "KFintech (Karvy/KFin) Consolidated Account Statement (CAS, mailback)",
+      "example": "Custom password Demo@2026 (illustrative only)"
+    },
+    {
+      "id": "cdsl-cas",
+      "name": "CDSL CAS",
+      "heading": "CDSL CAS PDF password: your PAN in capitals (ABCDE1234F)",
+      "match": "CDSL demat / eCAS statement",
+      "toolDescription": "Unlock your CDSL CAS PDF here: type the first holder's PAN in capitals once and save a copy that opens without it. Runs in your browser, no uploads."
+    },
+    {
+      "id": "nsdl-cas",
+      "name": "NSDL CAS",
+      "match": "NSDL demat / CAS statement",
+      "example": "Client ID 12345678 (illustrative only)",
+      "rule": "Not confirmed from an official NSDL page. Third-party guides say the 8-digit Client ID; one says the CDSL rule (PAN of the first or sole account holder in capitals) is also used for NSDL. Treat as unverified and check the NSDL instructions or the email that delivered the file."
+    },
+    {
+      "id": "e-pan",
+      "name": "e-PAN",
+      "match": "PAN e-card (e-PAN, NSDL/UTIITSL PDF)",
+      "rule": "Date of birth in DDMMYYYY (eight digits, no separators) for an individual; date of incorporation for a company. Minority of sources claim name-based (first 5 letters of name in caps plus DDMMYYYY) or DOB followed by PAN. Official Income Tax / NSDL FAQ did not state the PDF password in the available guidance; majority of commercial sources agree on DDMMYYYY."
+    },
+    {
+      "id": "form-16",
+      "name": "Form 16",
+      "match": "Form 16 (TDS certificate, employer-generated PDF via TRACES)",
+      "rule": "Reportedly set by the employer, not by TRACES. The most common format cited in unofficial sources is PAN plus DOB, but the case rule conflicts: one FAQ says PAN in lowercase followed by DDMMYYYY; others say the first five PAN characters in uppercase plus DDMMYYYY. Other reports describe full PAN, PAN plus birth year, DOB alone, or employee ID plus DOB. Check the employer's email or HR."
+    },
+    {
+      "id": "form-26as",
+      "name": "Form 26AS",
+      "match": "Form 26AS (TRACES / Income Tax portal tax credit statement)"
+    },
+    {
+      "id": "epfo-passbook",
+      "name": "EPFO passbook",
+      "match": "EPFO passbook (PDF from the member portal)",
+      "rule": "Conflicting. One guide says the downloaded passbook is password-protected with the 12-digit UAN. BankBazaar's FAQ says no password is needed to open the PDF. The official EPFO pages describe the download after login with UAN and portal password, with no PDF password rule stated. Try the UAN; if it fails, check the portal FAQ.",
+      "example": "UAN 123456789012 (illustrative only, 12 digits)"
+    },
+    {
+      "id": "icici-credit-card-statement",
+      "name": "ICICI credit card statement",
+      "match": "ICICI Bank Credit card e-statement",
+      "rule": "First four letters of the name printed on your credit card, in lowercase, followed by your birth day and month as DDMM. Do not include spaces or special characters. ICICI publishes a different rule for Net Banking downloads; check how you received the file.",
+      "example": "Name Meera Fiction, born 9 July 1994: meer0907 (illustrative only)."
+    },
+    {
+      "id": "indusind-statement",
+      "name": "IndusInd statement",
+      "match": "IndusInd Bank Account statement delivered by email (Select mailer)",
+      "rule": "For the Select account-statement email: first four characters of your name in UPPERCASE followed by your date of birth as DDMM. The eight-digit Customer ID is an alternative password. This instruction is specific to the Select mailer.",
+      "example": "Name Meera Fiction, born 9 July 1994: MEER0907; alternative Customer ID 12345678 (illustrative only)."
+    },
+    {
+      "id": "federal-statement",
+      "name": "Federal Bank statement",
+      "match": "Federal Bank Account statement (FedMobile instructions)",
+      "rule": "For a FedMobile account statement: first four letters of your name in capitals followed by your date of birth as DDMM, without spaces or special characters. For a firm, use the firm name and incorporation date. The official short-name example continues into the next word.",
+      "example": "Name Meera Fiction, born 9 July 1994: MEER0907 (illustrative only)."
+    },
+    {
+      "id": "ais",
+      "name": "AIS",
+      "match": "Income Tax Department Annual Information Statement PDF",
+      "rule": "PAN in lowercase followed by date of birth as DDMMYYYY, without spaces. For a non-individual taxpayer, use the date of incorporation or formation instead. This is the AIS PDF rule; the separate JSON import instruction uses uppercase PAN.",
+      "example": "PAN ABCDE1234F, born 9 July 1994: abcde1234f09071994 (illustrative only)."
+    },
+    {
+      "id": "zerodha-contract-note",
+      "name": "Zerodha contract note",
+      "match": "Zerodha Contract note PDF",
+      "rule": "Your full PAN in UPPERCASE. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: ABCDE1234F (illustrative only)."
+    },
+    {
+      "id": "groww-contract-note",
+      "name": "Groww contract note",
+      "match": "Groww Contract note PDF",
+      "rule": "Your full PAN in UPPERCASE. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: ABCDE1234F (illustrative only)."
+    },
+    {
+      "id": "upstox-contract-note",
+      "name": "Upstox contract note",
+      "match": "Upstox Contract note PDF",
+      "rule": "Your full PAN in lowercase. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: abcde1234f (illustrative only)."
+    },
+    {
+      "id": "five-paisa-contract-note",
+      "name": "5paisa contract note",
+      "match": "5paisa Contract note PDF",
+      "rule": "Your full PAN in UPPERCASE. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: ABCDE1234F (illustrative only)."
+    },
+    {
+      "id": "kotak-neo-contract-note",
+      "name": "Kotak Neo contract note",
+      "match": "Kotak Neo Contract note PDF",
+      "rule": "Your full PAN in UPPERCASE, without spaces. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: ABCDE1234F (illustrative only)."
+    },
+    {
+      "id": "share-india-contract-note",
+      "name": "Share India contract note",
+      "match": "Share India Contract note PDF",
+      "rule": "Your full PAN in UPPERCASE. This instruction covers contract notes; do not assume it applies to ledger or other account reports.",
+      "example": "PAN ABCDE1234F: ABCDE1234F (illustrative only)."
+    },
+    {
+      "id": "jio-postpaid-bill",
+      "name": "Jio postpaid bill",
+      "match": "Reliance Jio Postpaid e-bill PDF",
+      "rule": "First four letters of the registered connection name in lowercase, ignoring spaces, followed by the last four digits of your Jio postpaid number. The official page does not give a rule for names shorter than four letters.",
+      "example": "Name Meera Fiction, Jio number ending 6789: meer6789 (illustrative only)."
+    },
+    {
+      "id": "icici-prudential-policy",
+      "name": "ICICI Prudential policy",
+      "heading": "ICICI Prudential policy PDF password: name + DDMM (meer0907)",
+      "match": "ICICI Prudential Life Insurance E-Welcome Kit / policy document",
+      "rule": "First four letters of your name followed by your date of birth as DDMM. The issuer shows lowercase in its example, rather than stating a general case rule. This instruction covers the E-Welcome Kit, including the policy certificate and first premium receipt.",
+      "example": "Name Meera Fiction, born 9 July 1994: meer0907, following the case in the issuer example (illustrative only).",
+      "toolDescription": "Unlock your ICICI Prudential policy PDF here: enter name + DDMM (e.g. meer0907) once and save a copy that opens without it. No uploads."
+    },
+    {
+      "id": "bandhan-fd-advice",
+      "name": "Bandhan FD advice",
+      "match": "Bandhan Bank Neo+ Digital Fixed Deposit advice sent by email",
+      "rule": "For the Neo+ Digital Fixed Deposit advice sent by email, use your date of birth as DDMM: two digits for the day followed by two for the month. This instruction is specific to Neo+ Digital Fixed Deposit advice.",
+      "example": "Born 9 July 1994: 0907 (illustrative only)."
+    },
+    {
+      "id": "baroda-bnp-mutual-fund-statement",
+      "name": "Baroda BNP Paribas mutual fund statement",
+      "match": "Baroda BNP Paribas Mutual Fund Mutual fund statement of account",
+      "rule": "PAN in capitals; for a minor, use the Guardian PAN. If PAN is not registered, use the first four letters of the first holder name followed by the last four folio digits. The issuer illustrates the fallback in lowercase with spaces and punctuation omitted, rather than giving a complete case and punctuation rule. This is a single-fund statement, not a consolidated CAS.",
+      "example": "PAN ABCDE1234F: ABCDE1234F. With no registered PAN, name Meera Fiction and folio ending 6789: meer6789 (illustrative only)."
+    },
+    {
+      "id": "icici-credit-card-netbanking-statement",
+      "name": "ICICI credit card Net Banking statement",
+      "match": "ICICI Bank Credit card statement PDF downloaded from Net Banking",
+      "rule": "For the credit card statement PDF downloaded from Net Banking, ICICI instructs you to use the last four digits of your credit card number. Its e-statement FAQ gives a different name-and-birth-date rule. Keep this guidance specific to the Net Banking download and check the hint for your file.",
+      "example": "Credit card number ending 6789: 6789 (illustrative only).",
+      "heading": "ICICI Net Banking credit card PDF password format"
+    }
+  ]
+}

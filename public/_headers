@@ -1,0 +1,41 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: DENY
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Security-Policy: default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self'; object-src 'none'; base-uri 'none'
+
+/
+  Cache-Control: no-cache
+
+/index.html
+  Cache-Control: no-cache
+
+/pdf-unlock.html
+  Cache-Control: no-cache
+
+/pdf-unlock
+  Cache-Control: no-cache
+
+/exam/*
+  Cache-Control: no-cache
+
+/hi/exam/*
+  Cache-Control: no-cache
+
+/sw.js
+  Cache-Control: no-cache
+  Service-Worker-Allowed: /
+  Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'
+
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+/404.html
+  Cache-Control: no-cache
+
+/hi/*
+  Cache-Control: no-cache

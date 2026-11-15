@@ -1,0 +1,1226 @@
+{
+  "researchedOn": "2026-10-15",
+  "method": "Haiku web research, unofficial sources allowed, not human-verified",
+  "results": {
+    "v2:9bc8b6fcfa1aacfd012447ddf8891c4c43d14fd249060d7180a554b1f89882a1": {
+      "exams": [
+        {
+          "exam": "SSC CGL (2026 cycle): photograph",
+          "cycle": "2026 cycle, per unofficial sources only. Official notice not opened: ssc.gov.in returned only its page title.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Online OTR uses a live webcam capture, so there is no upload size or dimension spec. The 3.5x4.5 cm, 20-50 KB, ~275x354 px figures apply to the DV/physical copy only."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "Online OTR: LIVE webcam capture."
+            },
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-cgl-photo-and-signature-size-2026",
+              "sourceType": "unofficial",
+              "quote": "Captured live, no separate upload size"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "SSC CGL (2026 cycle): signature",
+          "cycle": "2026 cycle, per unofficial sources only.",
+          "uploads": [
+            {
+              "kind": "signature",
+              "format": "JPEG/JPG",
+              "minKB": 10,
+              "maxKB": 20,
+              "widthCm": 4,
+              "heightCm": 2,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Both sources quote the same values. Search snippets also mention 6x2 cm and 236x79 px, but those pages were not opened, so they are not used."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-cgl-photo-and-signature-size-2026",
+              "sourceType": "unofficial",
+              "quote": "~4.0 cm (Width) × 2.0 cm (Height)"
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "4.0 × 2.0 cm\", \"10 KB – 20 KB"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "SSC CGL (2026 cycle): left thumb impression",
+          "cycle": "2026 cycle, per unofficial sources only.",
+          "uploads": [
+            {
+              "kind": "left-thumb-impression",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Not required for online submission, per the handbook."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "N/A for online submission."
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "SSC CHSL (2026 cycle): photograph",
+          "cycle": "2026 cycle, per unofficial sources only. The PW CHSL page cites an official notice dated 07.09.2026 but does not reproduce it.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Captured live in the online application, with no upload size or dimension spec."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-chsl-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "There is no fixed file size for the photograph."
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "Online OTR: LIVE webcam capture."
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "SSC CHSL (2026 cycle): signature",
+          "cycle": "2026 cycle, per unofficial sources only. The two sources conflict on width, so both values are kept.",
+          "uploads": [
+            {
+              "kind": "signature",
+              "format": "JPEG/JPG",
+              "minKB": 10,
+              "maxKB": 20,
+              "widthCm": 6,
+              "heightCm": 2,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Value from the PW CHSL page (6.0 x 2.0 cm)."
+            },
+            {
+              "kind": "signature",
+              "format": "JPG",
+              "minKB": 10,
+              "maxKB": 20,
+              "widthCm": 4,
+              "heightCm": 2,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Value from the ajays handbook SSC group (4.0 x 2.0 cm), which covers CGL, CHSL and GD together."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-chsl-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "About 6.0 cm (width) x 2.0 cm (height)"
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "4.0 × 2.0 cm\", \"10 KB – 20 KB"
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "SSC CHSL (2026 cycle): left thumb impression",
+          "cycle": "2026 cycle, per unofficial sources only.",
+          "uploads": [
+            {
+              "kind": "left-thumb-impression",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "The handbook marks this N/A for online submission. The PW CHSL page does not mention a thumb impression."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "N/A for online submission."
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "SSC GD Constable (2026 cycle): photograph",
+          "cycle": "2026 cycle, per unofficial sources only. Official notice not opened.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": "JPEG/JPG",
+              "minKB": 20,
+              "maxKB": 50,
+              "widthCm": 3.5,
+              "heightCm": 4.5,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "From the PW GD document list, which gives the scanned photograph spec. The handbook instead describes live webcam capture for the online OTR, so the two sources conflict on whether a file is uploaded."
+            },
+            {
+              "kind": "photo",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook SSC group: Online OTR uses live webcam capture, with no upload size."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-gd-documents-required-list-2026",
+              "sourceType": "unofficial",
+              "quote": "JPEG/JPG format, 20 KB to 50 KB, 3.5 cm (width) x 4.5 cm (height)."
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "Online OTR: LIVE webcam capture."
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "SSC GD Constable (2026 cycle): signature",
+          "cycle": "2026 cycle, per unofficial sources only.",
+          "uploads": [
+            {
+              "kind": "signature",
+              "format": "JPEG/JPG",
+              "minKB": 10,
+              "maxKB": 20,
+              "widthCm": 4,
+              "heightCm": 2,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Both sources agree on 10-20 KB and 4.0 x 2.0 cm."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-gd-documents-required-list-2026",
+              "sourceType": "unofficial",
+              "quote": "JPEG/JPG format, 10 KB to 20 KB, 4.0 cm (width) x 2.0 cm (height)."
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "4.0 × 2.0 cm\", \"10 KB – 20 KB"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "SSC GD Constable (2026 cycle): left thumb impression",
+          "cycle": "2026 cycle, per unofficial sources only.",
+          "uploads": [
+            {
+              "kind": "left-thumb-impression",
+              "format": "JPEG/JPG",
+              "minKB": 10,
+              "maxKB": 30,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "From PW GD: 'May be required for upload', with no dimensions given. The handbook says N/A for online submission, so the sources conflict."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook SSC group: N/A for online submission."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.pw.live/ssc/exams/ssc-gd-documents-required-list-2026",
+              "sourceType": "unofficial",
+              "quote": "JPEG/JPG format, 10 KB to 30 KB (Check official notification for specific dimensions)."
+            },
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "N/A for online submission."
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "UPSC NDA/NA: photograph",
+          "cycle": "2026 cycle, per one unofficial handbook. Official UPSC page returned 403.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 300,
+              "widthCm": 3.5,
+              "heightCm": 4.5,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": 300,
+              "notes": "Handbook gives 350x350 to 1000x1000 px and 3.5x4.5 cm (300 DPI: 413x531 px). The pixel range is not split by exam. CSE-only sources (visionias 20-200 KB, bharatnotes 350x350 px) are not NDA evidence and are not counted."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "350×350 to 1000×1000 px\", \"20 KB – 300 KB (JPG only)"
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "UPSC NDA/NA: signature",
+          "cycle": "2026 cycle, per one unofficial handbook.",
+          "uploads": [
+            {
+              "kind": "signature",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 100,
+              "widthCm": 3.5,
+              "heightCm": 1.5,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook: 3.5 x 1.5 cm (~350x150 px), 20-100 KB, with some down to 10 KB. Black ink only."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "3.5 × 1.5 cm\", \"~350×150 px\", \"20 KB – 100 KB (some down to 10 KB)"
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "UPSC NDA/NA: left thumb impression",
+          "cycle": "2026 cycle, per one unofficial handbook.",
+          "uploads": [
+            {
+              "kind": "left-thumb-impression",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook lists thumb/declaration as N/A for online submission."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "N/A."
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "UPSC CDS: photograph",
+          "cycle": "2026 cycle, per one unofficial handbook. Official UPSC page returned 403.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 300,
+              "widthCm": 3.5,
+              "heightCm": 4.5,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": 300,
+              "notes": "Handbook gives 350x350 to 1000x1000 px and 3.5x4.5 cm (300 DPI: 413x531 px). The handbook groups NDA and CDS together. CSE-only sources are not CDS evidence."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "350×350 to 1000×1000 px\", \"20 KB – 300 KB (JPG only)"
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "UPSC CDS: signature",
+          "cycle": "2026 cycle, per one unofficial handbook.",
+          "uploads": [
+            {
+              "kind": "signature",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 100,
+              "widthCm": 3.5,
+              "heightCm": 1.5,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook (grouped with NDA): 3.5 x 1.5 cm (~350x150 px), 20-100 KB, with some down to 10 KB."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "3.5 × 1.5 cm\", \"~350×150 px\", \"20 KB – 100 KB (some down to 10 KB)"
+            }
+          ],
+          "agreement": "single-unofficial"
+        },
+        {
+          "exam": "UPSC CDS: left thumb impression",
+          "cycle": "2026 cycle, per one unofficial handbook.",
+          "uploads": [
+            {
+              "kind": "left-thumb-impression",
+              "format": null,
+              "minKB": null,
+              "maxKB": null,
+              "widthCm": null,
+              "heightCm": null,
+              "widthPx": null,
+              "heightPx": null,
+              "dpi": null,
+              "notes": "Handbook lists thumb/declaration as N/A."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://ajays.is-a.dev/exam-guidelines.html",
+              "sourceType": "unofficial",
+              "quote": "N/A."
+            }
+          ],
+          "agreement": "single-unofficial"
+        }
+      ]
+    },
+    "v2:b5868218a3df7f632e29b2a745c80feb8de382d1000e39f3feaf80f91aafb032": {
+      "exams": [
+        {
+          "exam": "RRB NTPC",
+          "cycle": "CEN 06/2026 (Graduate) per Oliveboard; examformtools cites no CEN number. Sources conflict.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "notes": "Oliveboard: photo is captured live in the portal, no candidate-uploaded file. Quote: 'No separate candidate-uploaded photo file.'"
+            },
+            {
+              "kind": "photo",
+              "widthCm": 3.5,
+              "heightCm": 4.5,
+              "dpi": 200,
+              "format": "JPG/JPEG",
+              "maxKB": 500,
+              "notes": "examformtools only. Conflicts with Oliveboard, which lists no photo file."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 3.5,
+              "heightCm": 2,
+              "widthPx": 140,
+              "heightPx": 60,
+              "minKB": 30,
+              "maxKB": 49,
+              "dpi": 100,
+              "format": "JPG/JPEG",
+              "notes": "Oliveboard (CEN 06/2026). 140x60 px is a minimum, not a maximum. Physical scan box 35 mm x 20 mm."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 3.5,
+              "heightCm": 1.5,
+              "minKB": 10,
+              "maxKB": 500,
+              "format": "JPG/JPEG",
+              "notes": "examformtools only. Conflicts with Oliveboard on box size and KB range."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "No thumb specification found in either source."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.oliveboard.in/blog/rrb-ntpc-photo-and-signature-details/",
+              "sourceType": "unofficial",
+              "quote": "sized 30–49 KB"
+            },
+            {
+              "url": "https://www.oliveboard.in/blog/rrb-ntpc-photo-and-signature-details/",
+              "sourceType": "unofficial",
+              "quote": "minimum dimensions of 140 × 60 pixels"
+            },
+            {
+              "url": "https://www.oliveboard.in/blog/rrb-ntpc-photo-and-signature-details/",
+              "sourceType": "unofficial",
+              "quote": "35 mm × 20 mm"
+            },
+            {
+              "url": "https://examformtools.in/exams/railway/rrb-ntpc/",
+              "sourceType": "unofficial",
+              "quote": "3.5 × 4.5 cm"
+            },
+            {
+              "url": "https://examformtools.in/exams/railway/rrb-ntpc/",
+              "sourceType": "unofficial",
+              "quote": "Signature: 3.5 cm × 1.5 cm, JPG/JPEG, 10–500 KB"
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "RRB Group D",
+          "cycle": "CEN 08/2024 wording as quoted by sarkaridoc; testbook cites the 2026 notification without a number. Sources conflict.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "widthCm": 3.5,
+              "heightCm": 4.5,
+              "widthPx": 240,
+              "heightPx": 320,
+              "minKB": 50,
+              "maxKB": 100,
+              "dpi": 100,
+              "format": "JPG",
+              "notes": "sarkaridoc only. CEN lists 320 x 240 as height x width; the portal takes 240 px wide x 320 px tall. No second source opened."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 5,
+              "heightCm": 2,
+              "widthPx": 140,
+              "heightPx": 60,
+              "minKB": 30,
+              "maxKB": 50,
+              "dpi": 100,
+              "format": "JPG",
+              "notes": "sarkaridoc (CEN 08/2024 wording). 140x60 px is the preferred size."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 3.5,
+              "heightCm": 2,
+              "widthPx": 140,
+              "heightPx": 60,
+              "minKB": 30,
+              "maxKB": 49,
+              "dpi": 100,
+              "format": "JPG/JPEG",
+              "notes": "testbook (2026 notification). 140x60 px is a minimum. Conflicts with sarkaridoc on width and KB range."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "Not uploaded as a file. sarkaridoc: thumb impression is taken live at the CBT venue."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://sarkaridoc.com/exams/rrb-group-d/",
+              "sourceType": "unofficial",
+              "quote": "35 mm x 45 mm or 320 x 240 pixels, JPEG, minimum 100 DPI, 50-100 KiB."
+            },
+            {
+              "url": "https://sarkaridoc.com/exams/rrb-group-d/",
+              "sourceType": "unofficial",
+              "quote": "50 mm x 20 mm or 140 x 60 pixels (preferred), JPEG, minimum 100 DPI, 30-50 KiB."
+            },
+            {
+              "url": "https://sarkaridoc.com/exams/rrb-group-d/",
+              "sourceType": "unofficial",
+              "quote": "Thumb impression and self-declaration are taken live at the CBT venue, not as files here."
+            },
+            {
+              "url": "https://testbook.com/news/rrb-group-d-signature-rules-2026/",
+              "sourceType": "unofficial",
+              "quote": "Between 30 KB and 49 KB."
+            },
+            {
+              "url": "https://testbook.com/news/rrb-group-d-signature-rules-2026/",
+              "sourceType": "unofficial",
+              "quote": "35 mm (width) × 20 mm (height)."
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "Agniveer (Indian Army)",
+          "cycle": "Latest cycle not confirmed. joinindianarmy.nic.in was opened and its page had no photo, signature or left thumb impression specifications. No unofficial source gave the numbers either.",
+          "uploads": [],
+          "sources": [],
+          "agreement": "not-found"
+        },
+        {
+          "exam": "RBI Grade B",
+          "cycle": "2026 (registration reported to close 20 May 2026, per edutap)",
+          "uploads": [
+            {
+              "kind": "photo",
+              "widthCm": 4.5,
+              "heightCm": 3.5,
+              "widthPx": 200,
+              "heightPx": 230,
+              "minKB": 20,
+              "maxKB": 50,
+              "format": "JPG/JPEG",
+              "notes": "Guidely and edutap agree on px and KB. Guidely gives the cm size and format. The official RBI appendix (appendix_i_17122025) appeared only in search results and was not opened; the fetch redirected to the rbi.org.in home page."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 4,
+              "heightCm": 2,
+              "widthPx": 140,
+              "heightPx": 60,
+              "minKB": 10,
+              "maxKB": 20,
+              "format": "JPG/JPEG",
+              "notes": "Guidely and edutap agree. Guidely lists 'Signature size - 10 to 20 KB' and '4.0 cm x 2.0 cm'."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "Neither source gives a thumb specification."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://guidely.in/blog/rbi-grade-b-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "Photo size - 20 KB to 50 KB"
+            },
+            {
+              "url": "https://guidely.in/blog/rbi-grade-b-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "Dimensions 200 x 230 pixels (preferred)"
+            },
+            {
+              "url": "https://guidely.in/blog/rbi-grade-b-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "4.5 cm (width) x 3.5 cm (height)"
+            },
+            {
+              "url": "https://guidely.in/blog/rbi-grade-b-photo-and-signature-size",
+              "sourceType": "unofficial",
+              "quote": "Signature size - 10 to 20 KB"
+            },
+            {
+              "url": "https://www.edutap.in/news/rbi-grade-b-2026-registration-closing-on-20-may/",
+              "sourceType": "unofficial",
+              "quote": "20 to 50 kb"
+            },
+            {
+              "url": "https://www.edutap.in/news/rbi-grade-b-2026-registration-closing-on-20-may/",
+              "sourceType": "unofficial",
+              "quote": "200 x 230 pixels"
+            },
+            {
+              "url": "https://www.edutap.in/news/rbi-grade-b-2026-registration-closing-on-20-may/",
+              "sourceType": "unofficial",
+              "quote": "10 to 20 kb"
+            },
+            {
+              "url": "https://www.edutap.in/news/rbi-grade-b-2026-registration-closing-on-20-may/",
+              "sourceType": "unofficial",
+              "quote": "140 x 60 pixels"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "UPSC Civil Services (CSE)",
+          "cycle": "2026 cycle per vajiramandravi and visionias. upsconline.nic.in was opened and its page had no photo or signature specifications.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 200,
+              "notes": "Both unofficial sources agree on 20-200 KB and JPG. Neither gives pixel or cm dimensions for the photo. Visionias says the face should cover at least 75% of the photo area."
+            },
+            {
+              "kind": "signature",
+              "format": "JPG",
+              "minKB": 20,
+              "maxKB": 100,
+              "notes": "Both sources agree on 20-100 KB and JPG. Pixels are given as a range of 350 to 500, not as width x height. Sign three times vertically in black ink on white paper."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "Not specified in either source."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://vajiramandravi.com/upsc-exam/upsc-photo-and-signature-guidelines/",
+              "sourceType": "unofficial",
+              "quote": "20 KB - 200 KB"
+            },
+            {
+              "url": "https://vajiramandravi.com/upsc-exam/upsc-photo-and-signature-guidelines/",
+              "sourceType": "unofficial",
+              "quote": "20 KB - 100 KB"
+            },
+            {
+              "url": "https://vajiramandravi.com/upsc-exam/upsc-photo-and-signature-guidelines/",
+              "sourceType": "unofficial",
+              "quote": "350 - 500 pixels"
+            },
+            {
+              "url": "https://blog.visionias.in/blog/english/upsc-new-photo-signature-rules-2026-dos-and-donts",
+              "sourceType": "unofficial",
+              "quote": "File size: 20 KB to 200 KB"
+            },
+            {
+              "url": "https://blog.visionias.in/blog/english/upsc-new-photo-signature-rules-2026-dos-and-donts",
+              "sourceType": "unofficial",
+              "quote": "File size: 20 KB to 100 KB"
+            },
+            {
+              "url": "https://blog.visionias.in/blog/english/upsc-new-photo-signature-rules-2026-dos-and-donts",
+              "sourceType": "unofficial",
+              "quote": "Image dimensions: 350–500 pixels"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        },
+        {
+          "exam": "CLAT UG",
+          "cycle": "CLAT 2027 (LawEntrance) and CLAT 2026 (Physics Wallah). Sources conflict. The 2027 information bulletin was not opened.",
+          "uploads": [
+            {
+              "kind": "photo",
+              "format": "JPG/JPEG or PNG",
+              "maxKB": 500,
+              "notes": "LawEntrance, labelled as CLAT 2027 and based on CLAT 2026. Conflicts with Physics Wallah."
+            },
+            {
+              "kind": "photo",
+              "format": "JPG/JPEG",
+              "minKB": 20,
+              "maxKB": 50,
+              "widthPx": 200,
+              "heightPx": 230,
+              "notes": "Physics Wallah, labelled CLAT 2026. 200x230 px is preferred. Conflicts with LawEntrance."
+            },
+            {
+              "kind": "signature",
+              "format": "JPG/JPEG or PNG",
+              "maxKB": 100,
+              "notes": "LawEntrance, labelled as CLAT 2027. Conflicts with Physics Wallah."
+            },
+            {
+              "kind": "signature",
+              "format": "JPG/JPEG",
+              "minKB": 10,
+              "maxKB": 20,
+              "widthPx": 140,
+              "heightPx": 60,
+              "notes": "Physics Wallah, labelled CLAT 2026. 140x60 px is preferred. Conflicts with LawEntrance."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "Not specified in either source."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.lawentrance.com/blogs/documents-required-to-fill-clat-application-form-2027/",
+              "sourceType": "unofficial",
+              "quote": "JPG/JPEG or PNG"
+            },
+            {
+              "url": "https://www.lawentrance.com/blogs/documents-required-to-fill-clat-application-form-2027/",
+              "sourceType": "unofficial",
+              "quote": "500 KB"
+            },
+            {
+              "url": "https://www.lawentrance.com/blogs/documents-required-to-fill-clat-application-form-2027/",
+              "sourceType": "unofficial",
+              "quote": "100 KB"
+            },
+            {
+              "url": "https://www.pw.live/law/exams/clat-photo-size-and-signature",
+              "sourceType": "unofficial",
+              "quote": "20 KB – 50 KB"
+            },
+            {
+              "url": "https://www.pw.live/law/exams/clat-photo-size-and-signature",
+              "sourceType": "unofficial",
+              "quote": "200 X 230 pixels (preferred)"
+            },
+            {
+              "url": "https://www.pw.live/law/exams/clat-photo-size-and-signature",
+              "sourceType": "unofficial",
+              "quote": "10 KB – 20 KB"
+            },
+            {
+              "url": "https://www.pw.live/law/exams/clat-photo-size-and-signature",
+              "sourceType": "unofficial",
+              "quote": "140 X 60 pixels (preferred)"
+            }
+          ],
+          "agreement": "conflicting"
+        },
+        {
+          "exam": "CAT",
+          "cycle": "CAT 2026",
+          "uploads": [
+            {
+              "kind": "photo",
+              "widthCm": 3,
+              "heightCm": 4.5,
+              "minKB": 20,
+              "maxKB": 80,
+              "dpi": 150,
+              "format": "JPG/JPEG",
+              "notes": "Careers360 and catking agree on 30 mm x 45 mm and 80 KB. Catking gives a safe range of 20-80 KB and a minimum of 150 ppi. Neither gives pixel dimensions. The official iimcat.ac.in page was opened and had no specs."
+            },
+            {
+              "kind": "signature",
+              "widthCm": 8,
+              "heightCm": 3.5,
+              "maxKB": 80,
+              "format": "JPG/JPEG",
+              "notes": "Careers360 only. Catking gives no signature spec, so this is a single-source figure. Careers360 says the 'dimensions are laid out in the CAT 2026 notification' but does not reproduce it."
+            },
+            {
+              "kind": "left-thumb-impression",
+              "notes": "Not specified in either source."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.careers360.com/mba/articles/cat-2026-photo-signature-specifications",
+              "sourceType": "unofficial",
+              "quote": "30 mm × 45 mm"
+            },
+            {
+              "url": "https://www.careers360.com/mba/articles/cat-2026-photo-signature-specifications",
+              "sourceType": "unofficial",
+              "quote": "80 mm × 35 mm"
+            },
+            {
+              "url": "https://www.careers360.com/mba/articles/cat-2026-photo-signature-specifications",
+              "sourceType": "unofficial",
+              "quote": "80 KB"
+            },
+            {
+              "url": "https://catking.in/cat-2026-photo-correction",
+              "sourceType": "unofficial",
+              "quote": "30 mm (width) x 45 mm (height)"
+            },
+            {
+              "url": "https://catking.in/cat-2026-photo-correction",
+              "sourceType": "unofficial",
+              "quote": "Minimum 150 pixels per inch"
+            },
+            {
+              "url": "https://catking.in/cat-2026-photo-correction",
+              "sourceType": "unofficial",
+              "quote": "80 KB (safe range: 20 KB to 80 KB)"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree"
+        }
+      ]
+    },
+    "v2:f6dead8d23f6706049c92342502341d8f70d0f36060105a4c059b9390165c258": {
+      "documents": [
+        {
+          "document": "e-Aadhaar (UIDAI download)",
+          "passwordRule": "First four letters of the resident's name as printed on the Aadhaar, in CAPITALS, followed by the four-digit birth year (YYYY). Spaces are skipped when counting letters; punctuation is kept (UIDAI example: P. KUMAR, born 1990 gives P.KU1990). Short names are not padded: UIDAI's example RIA, born 1990, gives RIA1990 (one blog says use the full name for names under four letters, which conflicts). Full date of birth is not used. The rule is fixed by UIDAI and cannot be changed.",
+          "sources": [
+            {
+              "url": "https://www.bajajfinserv.in/aadhaar-password",
+              "sourceType": "unofficial",
+              "quote": "Aadhaar card PDF password format (first four letters of name in caps followed by birth year)"
+            },
+            {
+              "url": "https://www.uidai.gov.in/en/283-faqs/aadhaar-online-services/e-aadhaar/1891-what-is-the-password-of-e-aadhaar.html",
+              "sourceType": "official",
+              "quote": "Search snippet only, via a Google Translate mirror of the UIDAI FAQ: SURESH KUMAR, born 1990, gives SURE1990. The uidai.gov.in page itself could not be fetched (404)."
+            },
+            {
+              "url": "https://getnyay.in/aadhaar/pdf-password",
+              "sourceType": "unofficial",
+              "quote": "e-Aadhaar PDF Password — Format, and Why It Fails"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree",
+          "example": "Name ASHA VERMA, born 1990: password ASHA1990"
+        },
+        {
+          "document": "SBI account statement (bank account, not credit card)",
+          "passwordRule": "Conflicting by channel. Official SBI page (search snippet from sbi.co.in, not fetched): an emailed e-statement requested by SMS (ESTMT <account no.>) is encrypted with a 4-digit code the customer chooses at the time. Blogs claim other rules for net banking, mobile or branch statements: 11-digit account number; last 5 digits of registered mobile followed by DDMMYY; first 4 letters of name in caps plus DDMM; or customer ID. Not confirmed; the rule depends on how the statement was requested. Check the email or download-screen hint.",
+          "sources": [
+            {
+              "url": "https://sbi.co.in/portal/web/services/sbi-quick-missed-call-banking",
+              "sourceType": "official",
+              "quote": "(search snippet) the code is any 4 digit number of your choice which will be used to encrypt the PDF attachment"
+            },
+            {
+              "url": "https://cleartax.in/s/sbi-statement-password",
+              "sourceType": "unofficial",
+              "quote": "SBI Statement Password: Format, Example & Steps to Open SBI Bank Statement PDF"
+            },
+            {
+              "url": "https://bankconv.helpscoutdocs.com/article/15-sbi-statement-password",
+              "sourceType": "unofficial",
+              "quote": "Date of birth DDMMYYYY; name plus DDMM; customer ID (fetched, unverified)"
+            }
+          ],
+          "agreement": "conflicting",
+          "example": "ESTMT request with self-chosen 4-digit code 4821; or, per blogs, account 12345678901 or customer ID 98765432"
+        },
+        {
+          "document": "HDFC Bank account statement (PDF download)",
+          "passwordRule": "Customer ID (CustID), as stated on HDFC's own FAQ. The HDFC page says the statement download page and success message show this. Unofficial blogs claim DDMMYYYY date of birth or name-based formats; these conflict with the official FAQ and should not be used first.",
+          "sources": [
+            {
+              "url": "https://www.hdfc.bank.in/need-help/net-banking-faqs",
+              "sourceType": "official",
+              "quote": "The password for PDF account statements is your Customer ID (CustID)."
+            },
+            {
+              "url": "https://bankconv.helpscoutdocs.com/article/16-hdfc-statement-password",
+              "sourceType": "unofficial",
+              "quote": "HDFC statement password lists DDMMYYYY and name-based variants (conflicts with official FAQ)"
+            }
+          ],
+          "agreement": "official-confirmed",
+          "example": "Customer ID 12345678 gives password 12345678"
+        },
+        {
+          "document": "ICICI Bank savings account statement (e-statement)",
+          "passwordRule": "8 characters: first 4 letters of the account holder's title, in lowercase (the help page says the password is case-sensitive and lowercase), followed by DDMM of the holder's birth (or of incorporation for a current account). Joint account: use the first holder's details. A fallback 12-digit account number is mentioned on one page (the sources disagree on which digits are shown in the email subject). Credit card statements use the last 4 digits of the card number, a separate rule.",
+          "sources": [
+            {
+              "url": "https://help.icicibank.com/Phone-Bank-FAQ/909216713/What-is-the-password-to-open-my-e-statement.htm",
+              "sourceType": "official",
+              "quote": "(search snippet, page not fetched; host not resolvable) the first 4 letters of your password are the first 4 letters of the title of your account, followed by your date and month of birth OR date and month of incorporation in case of Current Account (in DDMM format). The password is case-sensitive (lowercase). Their example: ... Sujit Sawant with a birthday of 5 January, the password is suji0501."
+            },
+            {
+              "url": "https://cleartax.in/s/icici-bank-statement-password",
+              "sourceType": "unofficial",
+              "quote": "name letters plus DDMM, lowercase, case-sensitive (cleartax)"
+            },
+            {
+              "url": "https://bankconv.helpscoutdocs.com/article/18-icici-statement-password",
+              "sourceType": "unofficial",
+              "quote": "DDMMYYYY date of birth is listed as the most common format (conflicts with official help)"
+            }
+          ],
+          "agreement": "official-confirmed",
+          "example": "Account title Asha Verma, born 15 March: password asha1503 (ICICI help page rule, from search snippet)"
+        },
+        {
+          "document": "Axis Bank account statement (e-statement)",
+          "passwordRule": "Not confirmed from an official Axis page (the e-statement page mentions password protection but the password rule was not in the fetched text). Blog sources conflict: first 4 letters of name in UPPERCASE plus DDMM of date of birth (most common in the results); DDMMYYYY date of birth; or first 4 letters of name plus the 9-digit Customer ID. Check the e-statement registration email or call customer care.",
+          "sources": [
+            {
+              "url": "https://www.axisbank.com/bank-smart/e-statements/for-personal-banking",
+              "sourceType": "official",
+              "quote": "e-Statements ... offers a way to protect your confidential data with password protected e-Statements. (password rule not found in the fetched text)"
+            },
+            {
+              "url": "https://cleartax.in/s/axis-bank-statement-password",
+              "sourceType": "unofficial",
+              "quote": "Axis Bank Statement Password: Format, Example & Steps to Open Axis Bank Statement PDF"
+            },
+            {
+              "url": "https://univik.com/blog/axis-bank-statement-password.html",
+              "sourceType": "unofficial",
+              "quote": "First 4 letters of your name in CAPS + date of birth in DDMM format"
+            }
+          ],
+          "agreement": "conflicting",
+          "example": "Name Asha Verma, born 15 March 1990: ASHA1503 (blog variant), or ASHA15031990 (alternative blog variant)"
+        },
+        {
+          "document": "Kotak Mahindra Bank account statement (e-statement / PDF)",
+          "passwordRule": "No official statement PDF password rule found. Kotak's help pages confirm that the Customer Relationship Number (CRN) is used to regenerate the Net Banking password and to get a CRN by SMS, not as a statement PDF password. Blogs claim (a) CRN as the statement password, (b) DOB as DDMMYYYY, or (c) first 4 letters of name in caps plus last 4 digits of the customer ID. These conflict. Confirm with Kotak before relying on any of them.",
+          "sources": [
+            {
+              "url": "https://www.kotak.bank.in/en/transaction-services/statement.html",
+              "sourceType": "official",
+              "quote": "The page doesn't describe a separate statement password."
+            },
+            {
+              "url": "https://www.kotak.bank.in/en/help-center/working-capital/general-quetions/q9.html",
+              "sourceType": "official",
+              "quote": "it is very easy to regenerate your password online by inputting your Customer Relationship Number (CRN)."
+            },
+            {
+              "url": "https://univik.com/blog/kotak-bank-statement-password.html",
+              "sourceType": "unofficial",
+              "quote": "lock is your date of birth as eight digits, day first (e.g. 15081990)"
+            },
+            {
+              "url": "https://taxfetchindia.com/tools/bank-statement/kotak-bank-statement-analyzer",
+              "sourceType": "unofficial",
+              "quote": "First 4 letters of name (CAPS) + last 4 digits of Customer ID. Example: RAKE1234."
+            }
+          ],
+          "agreement": "conflicting",
+          "example": "Blog variants only: CRN 123456789; DOB 15031990; or ASHA1234 for name Asha and customer ID ending 1234 (all fake)"
+        },
+        {
+          "document": "CAMS mutual fund Consolidated Account Statement (CAS, requested on CAMS)",
+          "passwordRule": "Not a fixed rule: the password is the custom one you set when you request the statement on CAMS. CAMS says the statement is encrypted with that password and emailed only to the folio's registered email. Rules on the request form: alphanumeric, starts with an alphabet, 8 to 15 characters, at least one uppercase letter, at least one digit, and at least one of @ # $ * _. Blogs claim PAN in capitals or DDMMYYYY date of birth for auto-emailed statements; these are unconfirmed.",
+          "sources": [
+            {
+              "url": "https://www.camsonline.com/Investors/Statements/Consolidated-Account-Statement",
+              "sourceType": "official",
+              "quote": "(fetched page had only its title; rules taken from search summary of CAMS request pages) The statement will be encrypted using the password provided by you in the form above"
+            },
+            {
+              "url": "https://www.camsonline.com/Investors/Statements/CAS-CAMS",
+              "sourceType": "official",
+              "quote": "(search snippet) alphanumeric and must start with an alphabet. Length minimum 8, maximum 15. At least one uppercase letter and one numeric character, plus at least one of: @ # $ * _"
+            },
+            {
+              "url": "https://www.incredmoney.com/knowledge-center/share-market/how-to-download-consolidated-account-statement-cas-step-by-step-instructions/",
+              "sourceType": "unofficial",
+              "quote": "The password is generally the date of birth in DDMMYYYY format (auto-emailed CAS); PAN+DOB also claimed"
+            }
+          ],
+          "agreement": "official-confirmed",
+          "example": "Custom password set on request: Demo@2026 (8-15 chars, starts with a letter, has uppercase, digit and special)"
+        },
+        {
+          "document": "KFintech (Karvy/KFin) Consolidated Account Statement (CAS, mailback)",
+          "passwordRule": "Custom password set when you request the CAS on KFintech's site (per one guide). Rules on the mailback page (search snippet only): minimum 8 characters, with one uppercase, one lowercase, one number and one special character. Auto-emailed monthly CAS: blogs claim DDMMYYYY date of birth, or PAN in capitals plus DDMMYYYY; unconfirmed. Use the password you set; if you did not set one, these are guesses.",
+          "sources": [
+            {
+              "url": "https://www.incredmoney.com/knowledge-center/share-market/how-to-download-consolidated-account-statement-cas-step-by-step-instructions/",
+              "sourceType": "unofficial",
+              "quote": "CAMS / KFintech request: The password is the custom password you manually created during the request process on their website."
+            },
+            {
+              "url": "https://www.camsonline.com/Investors/Statements/CAS-CAMS",
+              "sourceType": "official",
+              "quote": "KFintech differs: its mailback CAS page lists minimum 8 characters, one uppercase, one lowercase, one number, one special character (as summarised by search result, page not fetched)"
+            }
+          ],
+          "agreement": "single-unofficial",
+          "example": "Custom password Demo@2026 (fake)"
+        },
+        {
+          "document": "CDSL demat / eCAS statement",
+          "passwordRule": "PAN of the first (or sole) demat account holder, entered in CAPITAL letters. No date of birth is part of the PDF password; DOB is only used to log in to the CAS portal for OTP.",
+          "sources": [
+            {
+              "url": "https://www.cdslindia.com/CAS/FAQ.html",
+              "sourceType": "official",
+              "quote": "enter PAN of the first/sole demat account holder in CAPITAL letters as a password"
+            }
+          ],
+          "agreement": "official-confirmed",
+          "example": "PAN ABCDE1234F gives password ABCDE1234F"
+        },
+        {
+          "document": "NSDL demat / CAS statement",
+          "passwordRule": "Not confirmed from an official NSDL page. Third-party guides say the 8-digit Client ID; one says the CDSL rule is also used for NSDL. Treat as unverified and check the NSDL instructions or the email that delivered the file.",
+          "sources": [
+            {
+              "url": "https://www.incredmoney.com/knowledge-center/?p=4219",
+              "sourceType": "unofficial",
+              "quote": "the NSDL depository CAS password is the 8-digit Client ID"
+            },
+            {
+              "url": "https://housing.com/news/pan-card-password",
+              "sourceType": "unofficial",
+              "quote": "(Housing.com) CDSL password described as the final 8 digits of the client ID (conflicts with CDSL FAQ)"
+            }
+          ],
+          "agreement": "single-unofficial",
+          "example": "Client ID 12345678 (fake)"
+        },
+        {
+          "document": "PAN e-card (e-PAN, NSDL/UTIITSL PDF)",
+          "passwordRule": "Date of birth in DDMMYYYY (eight digits, no separators) for an individual; date of incorporation for a company. Minority of sources claim name-based (first 5 letters of name in caps plus DDMMYYYY) or DOB followed by PAN. Official Income Tax / NSDL FAQ did not state the PDF password in the results; majority of commercial sources agree on DDMMYYYY.",
+          "sources": [
+            {
+              "url": "https://www.taxbuddy.com/blog/pan-card-password",
+              "sourceType": "unofficial",
+              "quote": "e-PAN PDF password is the date of birth in DDMMYYYY"
+            },
+            {
+              "url": "https://clcloud.codelathe.com/blog/download-your-pan-card-online-password-explained-1764803481",
+              "sourceType": "unofficial",
+              "quote": "DDMMYYYY date of birth followed directly by the PAN, with no spaces (conflicting variant)"
+            },
+            {
+              "url": "https://www.axis.bank.in/blogs/generic/how-to-download-e-pan-card",
+              "sourceType": "unofficial",
+              "quote": "first five letters of your name in uppercase, followed by your date of birth in DDMMYYYY format (conflicting variant)"
+            }
+          ],
+          "agreement": "multiple-unofficial-agree",
+          "example": "DOB 15 March 1990: 15031990 (also ABCDE15031990 in a variant)"
+        },
+        {
+          "document": "Form 16 (TDS certificate, employer-generated PDF via TRACES)",
+          "passwordRule": "Set by the employer, not by TRACES. The most common format cited in unofficial sources is PAN plus DOB, but the case rule conflicts: one FAQ says PAN in lowercase followed by DDMMYYYY; others say the first five PAN characters in uppercase plus DDMMYYYY. Some employers use full PAN, PAN plus birth year, DOB alone, or employee ID plus DOB. Check the employer's email or HR.",
+          "sources": [
+            {
+              "url": "https://www.taxbuddy.com/blog/form-16-password",
+              "sourceType": "unofficial",
+              "quote": "The most common password format for Form 16 is the employee's PAN in lower case and the date of birth in DDMMYYYY format."
+            },
+            {
+              "url": "https://sarkaridoc.com/tools/form-16-password/",
+              "sourceType": "unofficial",
+              "quote": "Form 16 / Form 16A Password (PAN + Date Of Birth)"
+            },
+            {
+              "url": "https://tax2win.in/guide/form-16-password",
+              "sourceType": "unofficial",
+              "quote": "The password of Form 16 consists of the first 5 characters of the employee's PAN number in uppercase and their date of birth in the format DDMMYYYY."
+            }
+          ],
+          "agreement": "multiple-unofficial-agree",
+          "example": "Employee PAN ABCDE1234F, DOB 15 March 1990: abcde1234f15031990 (lowercase full PAN) or ABCDE15031990 (first five, uppercase); the employer decides which"
+        },
+        {
+          "document": "Form 26AS (TRACES / Income Tax portal tax credit statement)",
+          "passwordRule": "Conflicting. Some sources say the PDF is protected with DOB in DDMMYYYY. Other sources say the Income Tax portal download has no password, and TRACES PDF, Excel and HTML downloads have no password, with only the text-format download protected by DOB DDMMYYYY. Unverified against an official TRACES page.",
+          "sources": [
+            {
+              "url": "https://busy.in/tds/form-26as/",
+              "sourceType": "unofficial",
+              "quote": "Form 26AS password claims conflict (DOB DDMMYYYY vs no password for PDF/Excel/HTML; text format only)"
+            },
+            {
+              "url": "https://www.taxtmi.com/article/detailed?id=12577",
+              "sourceType": "unofficial",
+              "quote": "(search summary) TRACES PDF, Excel and HTML downloads have no password; only text-format download is protected by DOB in DDMMYYYY"
+            }
+          ],
+          "agreement": "conflicting",
+          "example": "DOB 15 March 1990: 15031990 (only if the file is password-protected)"
+        },
+        {
+          "document": "EPFO passbook (PDF from the member portal)",
+          "passwordRule": "Conflicting. One guide says the downloaded passbook is password-protected with the 12-digit UAN. BankBazaar's FAQ says no password is needed to open the PDF. The official EPFO pages found describe the download after login with UAN and portal password, with no PDF password rule stated. Try the UAN; if it fails, check the portal FAQ.",
+          "sources": [
+            {
+              "url": "https://www.betterplace.co.in/blog/e-passbook-pf/",
+              "sourceType": "unofficial",
+              "quote": "the downloaded passbook is password-protected, and the password is usually your UAN (no exact format given)"
+            },
+            {
+              "url": "https://bankbazaar.com/saving-schemes/epf-e-passbook.html",
+              "sourceType": "unofficial",
+              "quote": "you will not need a password to open the PDF file to view your PF passbook (conflicts with the claim above)"
+            },
+            {
+              "url": "https://www.epfindia.gov.in/site_docs/PDFs/UAN_PDFs/UAN_ForMembers/User_Manual_Ver1.1_UAN_MemberPortal.pdf",
+              "sourceType": "official",
+              "quote": "Member login uses UAN and password; the passbook is downloaded from the Download menu (no PDF password rule stated)"
+            }
+          ],
+          "agreement": "conflicting",
+          "example": "UAN 123456789012 (fake, 12 digits)"
+        },
+        {
+          "document": "Salary slip (generic, employer-generated PDF)",
+          "passwordRule": "No standard or generic rule found. Employers set their own format. Commonly seen unverified patterns (PAN, DOB, employee ID) are not supported by any source found. Ask the employer's payroll or HR team.",
+          "sources": [
+            {
+              "url": "https://www.angelone.in/knowledge-center/income-tax/salary-slip-format",
+              "sourceType": "unofficial",
+              "quote": "search results gave no password convention for salary slips; PAN and UAN appear on many slips, but no source confirms they are used as passwords"
+            }
+          ],
+          "agreement": "not-found",
+          "example": "none verified"
+        },
+        {
+          "document": "LIC premium receipt (PDF from LIC e-Services)",
+          "passwordRule": "No password rule found. The sources found describe downloading a premium receipt after login to LIC e-Services, and none mention a PDF password. Unverified; check the LIC e-Services help or the receipt itself.",
+          "sources": [
+            {
+              "url": "https://autoportal.bankbazaar.com/life-insurance/lic-premium-receipt.html",
+              "sourceType": "unofficial",
+              "quote": "download the receipt in PDF format after logging into LIC e-Services; no PDF password mentioned"
+            }
+          ],
+          "agreement": "not-found",
+          "example": "none verified"
+        }
+      ]
+    }
+  }
+}
