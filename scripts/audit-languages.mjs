@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
 
-const literalTokens = JSON.parse(readFileSync(new URL('../presets/hi.json', import.meta.url), 'utf8')).pdfPages.literalTokens;
+const literalTokens = [...JSON.parse(readFileSync(new URL('../presets/hi.json', import.meta.url), 'utf8')).pdfPages.literalTokens, ...JSON.parse(readFileSync(new URL('../presets/info-pages.json', import.meta.url), 'utf8')).tokens];
 
 export function auditLanguages(pages, examNames) {
   const targetPath = route => route.endsWith('/') ? route + 'index.html' : route.endsWith('/pdf-unlock') ? route + '.html' : route;

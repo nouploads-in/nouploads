@@ -1,4 +1,5 @@
 import { generalPages } from '../scripts/general-pages.mjs';
+import { infoPages } from '../scripts/info-pages.mjs';
 import { toolPages } from '../scripts/tool-pages.mjs';
 import { readFileSync } from 'node:fs';
 import { expect, it } from 'vitest';
@@ -11,6 +12,7 @@ const pages = generatePages(presets, read('index.html'), JSON.parse(read('preset
 for (const [path, html] of toolPages(Object.fromEntries(['index.html', 'pdf-unlock.html', '404.html'].map(path => ['/' + path, read(path)])), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
 
 for (const [path, html] of generalPages(read('index.html'), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
+for (const [path, html] of infoPages(read('index.html'), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
 
 it('audits metadata, headings, language, structured data, CSP and symmetric alternates on every page', () => {
   auditSeo(pages);

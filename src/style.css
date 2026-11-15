@@ -170,3 +170,4 @@ body[data-general] #image{max-width:100%;max-height:420px;object-fit:contain}
 .triple-sheet .baseline{stroke:var(--form-line);stroke-width:1;stroke-dasharray:3 3;fill:none}
 .triple-sheet .ink{stroke:var(--ink);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
 @media(max-width:520px){.triple-guide{gap:14px;padding:14px}.triple-sheet{width:64px;height:80px}}
+.info-page>section{max-width:70ch}.info-page>section>h2{font-size:21px;margin:28px 0 8px}.info-page>section>p{margin:0;color:var(--muted)}

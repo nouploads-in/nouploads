@@ -3,6 +3,7 @@ import { expect, it } from 'vitest';
 import { pdfPages, pdfDocuments, pdfResearch, pdfRoutes } from '../scripts/pdf-pages.mjs';
 import { toolPages } from '../scripts/tool-pages.mjs';
 import { generalPages } from '../scripts/general-pages.mjs';
+import { infoPages } from '../scripts/info-pages.mjs';
 import { generatePages, discoveryFiles } from '../scripts/exam-pages.mjs';
 import { auditSeo } from '../scripts/audit-seo.mjs';
 import { auditLanguages } from '../scripts/audit-languages.mjs';
@@ -168,7 +169,7 @@ it('interpolates checked dates independently of translated copy and defaults und
 
 it('connects home, the primary PDF tool, footers, sibling pages and hubs and discovers every PDF route', () => {
   const templates = Object.fromEntries(['index.html', 'pdf-unlock.html', '404.html'].map(path => ['/' + path, read(path)]));
-  const all = new Map([...generatePages(JSON.parse(read('presets/exams.json')), read('index.html'), hi), ...toolPages(templates, hi), ...generalPages(read('index.html'), hi), ...pages]);
+  const all = new Map([...generatePages(JSON.parse(read('presets/exams.json')), read('index.html'), hi), ...toolPages(templates, hi), ...generalPages(read('index.html'), hi), ...infoPages(read('index.html'), hi), ...pages]);
   const first = toolPages(templates, hi);
   const second = toolPages(Object.fromEntries([...first].filter(([path]) => !path.startsWith('/hi/'))), hi);
   for (const path of ['/pdf-unlock.html', '/hi/pdf-unlock.html']) {

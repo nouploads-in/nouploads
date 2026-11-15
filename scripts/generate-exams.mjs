@@ -1,4 +1,5 @@
 import { generalPages } from './general-pages.mjs';
+import { infoPages } from './info-pages.mjs';
 import { pdfPages } from './pdf-pages.mjs';
 import { toolPages } from './tool-pages.mjs';
 import { copyFile, readFile, writeFile, mkdir, rm } from 'node:fs/promises';
@@ -13,6 +14,7 @@ const unverified = JSON.parse(await read('presets/unverified-exams.json'));
 const pages = generatePages(presets, template, hi, undefined, unverified);
 for (const [path, html] of toolPages({ '/index.html': template, '/pdf-unlock.html': await read('pdf-unlock.html'), '/404.html': await read('404.html') }, hi)) pages.set(path, html);
 for (const [path, html] of generalPages(template, hi)) pages.set(path, html);
+for (const [path, html] of infoPages(template, hi)) pages.set(path, html);
 for (const [path, html] of pdfPages(await read('pdf-unlock.html'), hi)) pages.set(path, html);
 for (const directory of ['exam', 'hi/exam']) {
   const target = resolve(root, directory);

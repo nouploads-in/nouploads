@@ -1,0 +1,72 @@
+{
+  "tokens": ["github.com/nouploads-in/nouploads", "contact@nouploads.in", "Cloudflare Pages", "Cloudflare", "AGPL-3.0", "IP"],
+  "labels": { "en": { "privacy": "Privacy policy", "about": "About" }, "hi": { "privacy": "गोपनीयता नीति", "about": "परिचय" } },
+  "pages": [
+    {
+      "id": "privacy",
+      "en": {
+        "title": "Privacy - what nouploads.in does with your files",
+        "description": "nouploads.in processes photos, signatures and PDFs inside your browser. Nothing is uploaded, no account, no cookies, no analytics. Here is what that means.",
+        "heading": "Privacy",
+        "lead": "Last updated: 15 November 2026",
+        "sections": [
+          ["Your files stay on your device", "Photos, signatures and PDFs are processed inside your browser. They are never uploaded to us or to anyone else. PDF passwords are used only on your device to open the file and are not stored or sent anywhere."],
+          ["What we do not collect", "No accounts. No cookies. No analytics or tracking scripts. No advertising scripts. Nothing is saved in your browser's local storage."],
+          ["What your browser keeps", "After your first visit the site saves its own pages and code in your browser so the tools work offline. This cache holds only the site, never your files. Clearing site data in your browser removes it."],
+          ["What our host can see", "The site is served by Cloudflare Pages. Like any web host, Cloudflare processes technical request data such as IP address, browser type and the page requested, in order to deliver the site and protect it from abuse. We do not use this data to identify visitors."],
+          ["How to check this yourself", "The tool pages carry a security policy that blocks connections to any other server. Load a tool, turn off Wi-Fi and mobile data, and it still works. The source code is public at {repo}."],
+          ["Links to other sites", "Exam and document pages link to official notices and issuer websites. Those sites have their own privacy practices."],
+          ["Changes", "If anything on this page changes, for example if the site ever shows ads, this page will be updated first and the date above will change."],
+          ["Contact", "{email}"]
+        ]
+      },
+      "hi": {
+        "title": "गोपनीयता - nouploads.in आपकी फ़ाइलों का क्या करता है",
+        "description": "nouploads.in फ़ोटो, हस्ताक्षर और PDF को आपके ब्राउज़र के अंदर ही प्रोसेस करता है। कुछ भी अपलोड नहीं होता, न खाता, न कुकी, न एनालिटिक्स। इसका मतलब यहाँ पढ़ें।",
+        "heading": "गोपनीयता",
+        "lead": "अंतिम अपडेट: 15 नवंबर 2026",
+        "sections": [
+          ["आपकी फ़ाइलें आपके डिवाइस पर ही रहती हैं", "फ़ोटो, हस्ताक्षर और PDF आपके ब्राउज़र के अंदर ही प्रोसेस होते हैं। ये हमारे पास या किसी और के पास कभी अपलोड नहीं होते। PDF पासवर्ड का इस्तेमाल सिर्फ़ आपके डिवाइस पर फ़ाइल खोलने के लिए होता है; इसे न कहीं सेव किया जाता है, न कहीं भेजा जाता है।"],
+          ["हम क्या इकट्ठा नहीं करते", "कोई खाता नहीं। कोई कुकी नहीं। कोई एनालिटिक्स या ट्रैकिंग स्क्रिप्ट नहीं। कोई विज्ञापन स्क्रिप्ट नहीं। आपके ब्राउज़र के लोकल स्टोरेज में कुछ सेव नहीं होता।"],
+          ["आपका ब्राउज़र क्या रखता है", "पहली बार खोलने के बाद साइट अपने पेज और कोड आपके ब्राउज़र में सेव कर लेती है ताकि टूल ऑफ़लाइन भी चलें। इस कैश में सिर्फ़ साइट होती है, आपकी फ़ाइलें कभी नहीं। ब्राउज़र में साइट डेटा साफ़ करने पर यह हट जाता है।"],
+          ["हमारा होस्ट क्या देख सकता है", "यह साइट Cloudflare Pages पर चलती है। हर वेब होस्ट की तरह Cloudflare साइट पहुँचाने और उसे दुरुपयोग से बचाने के लिए IP पता, ब्राउज़र का प्रकार और माँगा गया पेज जैसी तकनीकी जानकारी प्रोसेस करता है। हम इस जानकारी से किसी की पहचान नहीं करते।"],
+          ["आप ख़ुद कैसे जाँचें", "टूल वाले पेजों पर ऐसी सुरक्षा नीति लगी है जो किसी दूसरे सर्वर से कनेक्शन रोकती है। कोई टूल खोलें, Wi-Fi और मोबाइल डेटा बंद करें, टूल फिर भी चलेगा। सोर्स कोड यहाँ सार्वजनिक है: {repo}"],
+          ["दूसरी साइटों के लिंक", "परीक्षा और दस्तावेज़ वाले पेज आधिकारिक सूचनाओं और जारी करने वाली संस्थाओं की वेबसाइटों से जुड़ते हैं। उन साइटों की अपनी गोपनीयता नीतियाँ हैं।"],
+          ["बदलाव", "अगर इस पेज पर कुछ बदलता है, जैसे साइट पर कभी विज्ञापन दिखें, तो पहले यह पेज अपडेट होगा और ऊपर की तारीख़ बदलेगी।"],
+          ["संपर्क", "{email}"]
+        ]
+      }
+    },
+    {
+      "id": "about",
+      "en": {
+        "title": "About nouploads.in - form-ready photos and PDFs",
+        "description": "nouploads.in is a free, open-source set of photo, signature and PDF tools for Indian exam and document forms. Everything runs in your browser.",
+        "heading": "About nouploads.in",
+        "lead": "Form-ready photos and PDFs. Your files never leave your device.",
+        "sections": [
+          ["What it is", "A free set of tools for the chores every Indian form asks for: a photo of exact pixels under a KB limit, a signature under 20 KB, a PDF without its password. Everything runs inside your browser, so your files never leave your device."],
+          ["Where the exam sizes come from", "An exam page is marked verified only when its photo and signature rules come from the official notification or application portal, and each page links to that source with the date it was checked. Where no official rule could be found, the page says so and asks you to enter the limits from your own notice."],
+          ["Where the PDF password rules come from", "Rules confirmed by the issuer are shown as facts. Others are labelled as commonly reported and not confirmed by the issuer. Always check the email or download screen that came with your document."],
+          ["Open source", "The code is public under the AGPL-3.0 licence at {repo}, so anyone can check that nothing is uploaded."],
+          ["Not affiliated", "nouploads.in is an independent project. It is not affiliated with any exam board, bank, government body or document issuer named on the site."],
+          ["Found a mistake?", "Write to {email} with the page and the official source, and it will be corrected."]
+        ]
+      },
+      "hi": {
+        "title": "nouploads.in के बारे में - फ़ॉर्म के लिए फ़ोटो और PDF",
+        "description": "nouploads.in भारतीय परीक्षा और दस्तावेज़ फ़ॉर्म के लिए फ़ोटो, हस्ताक्षर और PDF के मुफ़्त, ओपन-सोर्स टूल हैं। सब कुछ आपके ब्राउज़र में ही चलता है।",
+        "heading": "nouploads.in के बारे में",
+        "lead": "फ़ॉर्म के लिए तैयार फ़ोटो और PDF। आपकी फ़ाइलें आपके डिवाइस से बाहर नहीं जातीं।",
+        "sections": [
+          ["यह क्या है", "उन कामों के लिए मुफ़्त टूल जो हर भारतीय फ़ॉर्म माँगता है: तय पिक्सेल और KB सीमा के अंदर फ़ोटो, 20 KB से छोटा हस्ताक्षर, बिना पासवर्ड का PDF। सब कुछ आपके ब्राउज़र के अंदर चलता है, इसलिए आपकी फ़ाइलें आपके डिवाइस से बाहर नहीं जातीं।"],
+          ["परीक्षा के आकार कहाँ से आते हैं", "किसी परीक्षा पेज को सत्यापित तभी लिखा जाता है जब उसके फ़ोटो और हस्ताक्षर के नियम आधिकारिक सूचना या आवेदन पोर्टल से लिए गए हों, और हर पेज उस स्रोत का लिंक और जाँच की तारीख़ दिखाता है। जहाँ आधिकारिक नियम नहीं मिला, वहाँ पेज यह साफ़ बताता है और आपसे अपनी सूचना की सीमाएँ भरने को कहता है।"],
+          ["PDF पासवर्ड के नियम कहाँ से आते हैं", "जिन नियमों की पुष्टि जारी करने वाली संस्था ने की है, वे तथ्य के रूप में दिखाए जाते हैं। बाक़ी पर लिखा होता है कि वे आम तौर पर बताए जाते हैं और संस्था ने उनकी पुष्टि नहीं की है। अपने दस्तावेज़ के साथ आए ईमेल या डाउनलोड स्क्रीन को हमेशा देखें।"],
+          ["ओपन सोर्स", "कोड AGPL-3.0 लाइसेंस के तहत {repo} पर सार्वजनिक है, ताकि कोई भी जाँच सके कि कुछ अपलोड नहीं होता।"],
+          ["किसी से संबद्ध नहीं", "nouploads.in एक स्वतंत्र प्रोजेक्ट है। यह साइट पर बताए गए किसी परीक्षा बोर्ड, बैंक, सरकारी संस्था या दस्तावेज़ जारी करने वाली संस्था से जुड़ा नहीं है।"],
+          ["कोई ग़लती दिखी?", "पेज और आधिकारिक स्रोत के साथ {email} पर लिखें, उसे ठीक किया जाएगा।"]
+        ]
+      }
+    }
+  ]
+}

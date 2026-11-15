@@ -1,4 +1,5 @@
 import { generalPages } from '../scripts/general-pages.mjs';
+import { infoPages } from '../scripts/info-pages.mjs';
 import { pdfPages } from '../scripts/pdf-pages.mjs';
 import { toolPages } from '../scripts/tool-pages.mjs';
 import { readFileSync } from 'node:fs';
@@ -10,6 +11,7 @@ const read = path => readFileSync(new URL('../' + path, import.meta.url), 'utf8'
 const pages = generatePages(JSON.parse(read('presets/exams.json')), read('index.html'), JSON.parse(read('presets/hi.json')));
 for (const [path, html] of toolPages(Object.fromEntries(['index.html', 'pdf-unlock.html', '404.html'].map(path => ['/' + path, read(path)])), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
 for (const [path, html] of generalPages(read('index.html'), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
+for (const [path, html] of infoPages(read('index.html'), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
 for (const [path, html] of pdfPages(read('pdf-unlock.html'), JSON.parse(read('presets/hi.json')))) pages.set(path, html);
 
 const decode = value => value.replaceAll('&#39;', "'").replaceAll('&quot;', '"').replaceAll('&amp;', '&');

@@ -19,6 +19,7 @@ auditCopy(htmlPages);
 const unverified = JSON.parse(await readFile('presets/unverified-exams.json', 'utf8'));
 const properNames = [...JSON.parse(await readFile('presets/exams.json', 'utf8')), ...unverified].flatMap(exam => [exam.name, exam.body ?? '']).map(name => name.replaceAll('&', '&amp;'));
 properNames.push(...JSON.parse(await readFile('presets/hi.json', 'utf8')).pdfPages.literalTokens);
+properNames.push(...JSON.parse(await readFile('presets/info-pages.json', 'utf8')).tokens);
 auditLanguages(htmlPages, properNames);
 async function dependencies(path, seen = new Set()) {
   if (seen.has(path)) return '';

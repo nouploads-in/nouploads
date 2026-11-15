@@ -4,6 +4,7 @@ export const publicRoute = route => route === '/pdf-unlock.html' ? '/pdf-unlock'
 const pdf = JSON.parse(readFileSync(new URL('../presets/pdf-pages.json', import.meta.url), 'utf8'));
 const pdfLabels = ['Unlock PDF', 'Remove PDF password', 'Private PDF password remover', 'Remove PDF password offline'];
 const generalTools = JSON.parse(readFileSync(new URL('../presets/general-tools.json', import.meta.url), 'utf8'));
+const info = JSON.parse(readFileSync(new URL('../presets/info-pages.json', import.meta.url), 'utf8'));
 import { escape } from './seo.mjs';
 
 export function pageHeader(lang, route, hi, languages = ['en', 'hi']) {
@@ -15,12 +16,16 @@ export function pageHeader(lang, route, hi, languages = ['en', 'hi']) {
 }
 
 export function pageFooter(lang, route, hi, note, languages = ['en', 'hi']) {
-  note = note.replace(/<a\b[^>]*data-repository-link[^>]*>[\s\S]*?<\/a>/g, '');
+  note = note.replace(/<a\b[^>]*data-(?:repository|info)-link[^>]*>[\s\S]*?<\/a>/g, '');
   const root = lang === 'hi' ? '/hi' : '';
   const tr = text => lang === 'hi' ? hi.translations[text] ?? text : text;
-  return '<footer><section><h2>' + escape(tr('Tools')) + '</h2><a href="' + root + '/">' + escape(tr('Photo & signature')) + '</a><a href="' + root + '/pdf-unlock">' + escape(tr('PDF password remover')) + '</a>' + pdf.intents.map((page, i) => '<a href="' + root + '/' + page.id + '/">' + escape(tr(pdfLabels[i])) + '</a>').join('') + '<a href="' + root + '/pdf-password/">' + escape(tr('PDF password help')) + '</a>' + generalTools.map(tool => '<a href="' + root + '/' + tool.id + '/">' + escape(tr(tool.label)) + '</a>').join('') + '</section><section><h2>' + escape(tr('Exams')) + '</h2><a href="' + root + '/exam/">' + escape(tr('Exam photo sizes')) + '</a></section><section><h2>' + escape(tr('Language')) + '</h2>' + languages.map(language => '<a lang="' + language + '" href="' + (language === 'hi' ? '/hi' : '') + publicRoute(route) + '">' + (language === 'hi' ? hi.languageName : 'English') + '</a>').join('') + '</section><section class="footer-note"><h2>' + escape(tr('Privacy')) + '</h2>' + note + repositoryLink(lang, hi) + '</section></footer>';
+  return '<footer><section><h2>' + escape(tr('Tools')) + '</h2><a href="' + root + '/">' + escape(tr('Photo & signature')) + '</a><a href="' + root + '/pdf-unlock">' + escape(tr('PDF password remover')) + '</a>' + pdf.intents.map((page, i) => '<a href="' + root + '/' + page.id + '/">' + escape(tr(pdfLabels[i])) + '</a>').join('') + '<a href="' + root + '/pdf-password/">' + escape(tr('PDF password help')) + '</a>' + generalTools.map(tool => '<a href="' + root + '/' + tool.id + '/">' + escape(tr(tool.label)) + '</a>').join('') + '</section><section><h2>' + escape(tr('Exams')) + '</h2><a href="' + root + '/exam/">' + escape(tr('Exam photo sizes')) + '</a></section><section><h2>' + escape(tr('Language')) + '</h2>' + languages.map(language => '<a lang="' + language + '" href="' + (language === 'hi' ? '/hi' : '') + publicRoute(route) + '">' + (language === 'hi' ? hi.languageName : 'English') + '</a>').join('') + '</section><section class="footer-note"><h2>' + escape(tr('Privacy')) + '</h2>' + note + repositoryLink(lang, hi) + infoLinks(lang) + '</section></footer>';
 }
 
 export function repositoryLink(lang, hi, url = REPO_URL) {
   return url ? '<a data-repository-link href="' + escape(url) + '" rel="noopener noreferrer external">' + escape(lang === 'hi' ? hi.translations['Source code'] : 'Source code') + '</a>' : '';
+}
+
+export function infoLinks(lang) {
+  return info.pages.map(page => '<a data-info-link href="' + (lang === 'hi' ? '/hi' : '') + '/' + page.id + '/">' + escape(info.labels[lang][page.id]) + '</a>').join('');
 }

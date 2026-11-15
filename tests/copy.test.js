@@ -3,6 +3,7 @@ import { expect, it } from 'vitest';
 import { generatePages } from '../scripts/exam-pages.mjs';
 import { toolPages } from '../scripts/tool-pages.mjs';
 import { generalPages } from '../scripts/general-pages.mjs';
+import { infoPages } from '../scripts/info-pages.mjs';
 import { pdfPages } from '../scripts/pdf-pages.mjs';
 import { auditCopy } from '../scripts/audit-copy.mjs';
 import { REPO_URL, repositoryLink } from '../scripts/page-shell.mjs';
@@ -14,6 +15,7 @@ const pages = new Map([
   ...generatePages(exams, read('index.html'), hi, undefined, JSON.parse(read('presets/unverified-exams.json'))),
   ...toolPages(Object.fromEntries(['index.html', 'pdf-unlock.html', '404.html'].map(path => ['/' + path, read(path)])), hi),
   ...generalPages(read('index.html'), hi),
+  ...infoPages(read('index.html'), hi),
   ...pdfPages(read('pdf-unlock.html'), hi)
 ]);
 
